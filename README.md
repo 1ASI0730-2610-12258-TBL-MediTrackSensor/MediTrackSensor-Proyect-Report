@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 <img src="assets/upc_logo.png" alt="UPC Logo" width="300"/>
 
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
