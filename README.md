@@ -25,11 +25,11 @@
 
 | Apellidos y Nombres | Código de Alumno |
 |:-------------------:|:----------------:|
-| Herrera Enriquez, Diego Fernando |                  |
-| Mallqui Vilca, Dhilsen Armil |                  |
+| Herrera Enriquez, Diego Fernando |    U202319027    |
+| Mallqui Vilca, Dhilsen Armil |    U202319440    |
 | Rioja Nuñez, Franco Diego |    U202221597    |
-| Tufiño Argüelles, Luis Angel |                  |
-| Urviola Condori, Mateo Sebastián |                  |
+| Tufiño Argüelles, Luis Angel |    U202216240    |
+| Urviola Condori, Mateo Sebastián |    U20231e443    |
 
 </div>
 
