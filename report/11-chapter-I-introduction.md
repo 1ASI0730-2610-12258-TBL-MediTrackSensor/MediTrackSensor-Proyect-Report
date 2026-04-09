@@ -14,30 +14,30 @@ Nuestro producto principal es MediTrack Sensor, una plataforma web que permite a
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
-### Who (¿Quiénes son los involucrados?)
+#### Who (¿Quiénes son los involucrados?)
 Los principales involucrados son hospitales, clínicas, farmacias, almacenes farmacéuticos y entidades del Estado encargadas de la distribución de medicamentos en el Perú. Asimismo, los pacientes se ven directamente afectados, ya que dependen de que los medicamentos se conserven en condiciones adecuadas para garantizar su efectividad y seguridad.
 
-### What (¿Qué se necesita?)
+#### What (¿Qué se necesita?)
 Existe la necesidad de un sistema que permita monitorear en tiempo real las condiciones ambientales de almacenamiento de medicamentos, como temperatura, humedad y exposición a la luz, debido a la falta de control continuo y herramientas tecnológicas que aseguren su correcta conservación.
 
-### Where (¿Dónde ocurre el problema?)
+#### Where (¿Dónde ocurre el problema?)
 El problema se presenta en hospitales y almacenes de medicamentos a nivel nacional, especialmente en zonas de provincias como Tingo María, así como en centros de distribución donde no se cuenta con infraestructura adecuada para el almacenamiento de productos farmacéuticos.
 
-### When (¿Cuándo surge esta necesidad?)
+#### When (¿Cuándo surge esta necesidad?)
 Esta necesidad surge de manera constante durante todo el proceso de almacenamiento y distribución de medicamentos, especialmente en contextos donde no existen sistemas automatizados de monitoreo y control, lo que hace que el problema sea continuo y vigente en la actualidad.
 
-### Why (¿Por qué existe esta necesidad?)
+#### Why (¿Por qué existe esta necesidad?)
 La problemática se origina debido a la falta de infraestructura adecuada, deficiencias en la gestión de almacenes y ausencia de sistemas de monitoreo en tiempo real. Según reportes de la Contraloría General de la República, se han identificado casos de almacenamiento inadecuado en hospitales, mientras que el Estado ha reconocido la necesidad de mejorar la infraestructura de almacenamiento, lo que evidencia que las condiciones actuales no garantizan la correcta conservación de medicamentos.
 
-### How (¿Cómo se manifiesta el problema?)
+#### How (¿Cómo se manifiesta el problema?)
 El problema se manifiesta mediante el almacenamiento de medicamentos en condiciones inadecuadas, como exposición al sol, humedad, polvo o cercanía a zonas contaminantes. Además, se observa la falta de control de temperatura y la ausencia de sistemas automatizados, lo que obliga a depender de procesos manuales e improvisados que incrementan el riesgo de deterioro de los productos farmacéuticos.
 
-### How Much (¿Cuánto cuesta o qué magnitud tiene el problema?)
+#### How Much (¿Cuánto cuesta o qué magnitud tiene el problema?)
 El problema tiene un impacto significativo en el sistema de salud, generando pérdidas económicas por medicamentos deteriorados, riesgos para la salud de los pacientes y deficiencias en la atención médica. La magnitud es considerable, ya que afecta a múltiples establecimientos de salud a nivel nacional y evidencia la necesidad de implementar soluciones tecnológicas que mejoren el control y la trazabilidad de los medicamentos.
 
 ---
 
-### Descripción de la Problemática
+#### Descripción de la Problemática
 
 En el Perú, el almacenamiento inadecuado de medicamentos representa una problemática vigente en el sistema de salud. Según reportes de la Contraloría General de la República, en el Hospital de Tingo María se evidenciaron deficiencias en el almacenamiento, como medicamentos ubicados en pasadizos, expuestos a condiciones no adecuadas y sin control ambiental, lo que compromete su calidad y efectividad.
 
@@ -45,6 +45,57 @@ Asimismo, el diario oficial El Peruano señala que el Estado ha identificado lim
 
 Esta situación refleja una problemática estructural caracterizada por la falta de monitoreo en tiempo real, deficiencias en infraestructura y dependencia de procesos manuales, lo que incrementa el riesgo de deterioro de los medicamentos. Como consecuencia, se generan pérdidas económicas, desabastecimiento y, principalmente, riesgos para la salud de los pacientes, evidenciando la necesidad de implementar soluciones tecnológicas que permitan supervisar de manera eficiente las condiciones de almacenamiento.
 ### 1.2.2. Lean UX Process
+
+### Dominio y Alcance del Problema
+El proyecto se enmarca en el sector salud, específicamente en la gestión y almacenamiento de medicamentos dentro de hospitales, centros de distribución y almacenes farmacéuticos en el Perú. A pesar de la importancia crítica de mantener condiciones adecuadas de conservación, la supervisión de variables como temperatura, humedad y luz aún presenta deficiencias debido a procesos manuales, infraestructura limitada y ausencia de monitoreo en tiempo real.
+
+El problema se presenta a nivel nacional, con énfasis en hospitales públicos y centros de distribución de medicamentos, incluyendo almacenes estratégicos como los de Lurín. Afecta tanto a zonas urbanas como rurales, donde las limitaciones tecnológicas y de infraestructura dificultan el control adecuado de las condiciones de almacenamiento.
+
+---
+
+### Actores Involucrados (Segmentos de Cliente)
+- Personal encargado de almacenes farmacéuticos (operarios, técnicos y responsables de control): responsables directos del almacenamiento y conservación de medicamentos.
+- Personal de salud (farmacéuticos, administradores hospitalarios): supervisan el uso y disponibilidad de medicamentos.
+- Entidades del Estado (MINSA, redes de salud): responsables de la distribución y cumplimiento de normativas.
+- Pacientes: usuarios finales afectados por la calidad de los medicamentos.
+
+---
+
+### Problemas, Puntos de Dolor y Causas
+**Puntos de dolor**
+- Falta de herramientas tecnológicas para monitoreo en tiempo real.
+- Dificultad para detectar variaciones de temperatura o humedad.
+- Falta de alertas automáticas.
+- Baja trazabilidad de los medicamentos.
+- Pérdidas económicas por deterioro o vencimiento.
+
+**Causas raíz**
+- Infraestructura insuficiente.
+- Ausencia de sistemas automatizados.
+- Procesos manuales propensos a errores.
+- Falta de integración tecnológica.
+- Supervisión limitada y no continua.
+
+---
+
+### Brecha, Impactos e Indicadores
+**Brecha detectada**  
+No existe un sistema digital integrado que permita monitorear en tiempo real las condiciones ambientales de almacenamiento de medicamentos, generando alertas y registros históricos confiables.
+
+**Impactos y riesgos**
+- Deterioro de medicamentos.
+- Riesgos para la salud.
+- Pérdidas económicas.
+- Incumplimiento normativo.
+- Desabastecimiento.
+
+**Indicadores**
+- Número de incidencias.
+- Tiempo de detección de fallas.
+- % de medicamentos deteriorados.
+- Nivel de cumplimiento.
+- Tiempo de respuesta.
+- Disponibilidad de datos históricos.
 
 #### 1.2.2.1. Lean UX Problem Statements
 
