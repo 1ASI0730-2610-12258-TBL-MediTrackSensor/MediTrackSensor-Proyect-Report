@@ -153,6 +153,48 @@ No existe un sistema digital integrado que permita monitorear en tiempo real las
 
 #### 1.2.2.4. Lean UX Canvas
 
+**1. Business Problem**  
+La gestión del almacenamiento de medicamentos en el sistema de salud presenta deficiencias debido a la falta de monitoreo en tiempo real y el uso de procesos manuales. Esto provoca que variables críticas como la temperatura, humedad y exposición a la luz no sean controladas adecuadamente, generando riesgos en la calidad de los medicamentos tanto en almacenes como durante su transporte.
+
+**2. Business Outcomes**
+- Reducir la pérdida de medicamentos por condiciones inadecuadas de almacenamiento.
+- Mejorar la eficiencia en la gestión de almacenes farmacéuticos.
+- Disminuir el tiempo de respuesta ante incidencias relacionadas con condiciones ambientales.
+- Asegurar el cumplimiento de normativas sanitarias en almacenamiento de medicamentos.
+- Optimizar la trazabilidad y control de los productos farmacéuticos en múltiples sedes.
+
+**3. Users**
+- Personal encargado de almacenes farmacéuticos (operarios, técnicos y responsables de control).
+- Farmacéuticos y administradores de hospitales.
+- Entidades del sector salud como el MINSA y centros de distribución (ej. almacenes de Lurín).
+
+**4. User Benefits**
+- Monitoreo en tiempo real de condiciones ambientales.
+- Alertas automáticas ante variaciones críticas.
+- Acceso a datos históricos para auditorías y toma de decisiones.
+- Reducción de procesos manuales y errores humanos.
+- Mejora en la seguridad y calidad de los medicamentos.
+
+**5. Solutions**
+- Plataforma web con dashboards para visualizar condiciones ambientales en tiempo real.
+- Integración con sensores IoT para capturar datos de temperatura, humedad y luz.
+- Sistema de alertas automáticas ante condiciones fuera de rango.
+- Módulo de reportes y almacenamiento de datos históricos.
+- Gestión centralizada para múltiples almacenes o sedes.
+
+**6. Hypotheses**
+- Si implementamos un sistema de monitoreo en tiempo real, el personal podrá detectar problemas antes de que afecten los medicamentos.
+- Si se automatizan las alertas, se reducirá el riesgo de deterioro por falta de respuesta oportuna.
+- Si centralizamos la información de múltiples almacenes, las entidades de salud mejorarán su control y eficiencia operativa.
+- Si se digitalizan los registros de almacenamiento, se reducirá el error humano y se mejorará la trazabilidad.
+- Si el sistema es fácil de usar, el personal adoptará la tecnología y reemplazará los métodos manuales.
+
+**7. What’s the most important thing we need to learn first?**  
+Primero necesitamos entender si el personal encargado de almacenes y las entidades de salud están dispuestos a adoptar una solución tecnológica para el monitoreo en tiempo real, así como sus necesidades específicas y limitaciones en el uso de estas herramientas.
+
+**8. What’s the least amount of work we need to do to learn the next most important thing?**  
+Realizar entrevistas con personal de almacenes y profesionales de salud, además de pruebas de prototipos simples (mockups o dashboards básicos) para validar la utilidad del monitoreo en tiempo real y la aceptación del sistema.
+
 ---
 
 ## 1.3. Segmentos objetivo
