@@ -98,9 +98,6 @@ No existe un sistema digital integrado que permita monitorear en tiempo real las
 - Disponibilidad de datos históricos.
 
 #### 1.2.2.2. Lean UX Assumptions
-
-#### 1.2.2.1. Lean UX Problem Statements
-
 **Sobre usuarios (personal de almacenes, farmacéuticos, administradores de salud)**
 - Asumimos que el personal encargado del almacenamiento prioriza mantener condiciones adecuadas de temperatura, humedad y luz para conservar los medicamentos.
 - Asumimos que necesitan información en tiempo real sobre las condiciones ambientales para tomar decisiones rápidas.
