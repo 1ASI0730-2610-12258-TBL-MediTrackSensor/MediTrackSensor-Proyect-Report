@@ -45,7 +45,7 @@ Asimismo, el diario oficial El Peruano señala que el Estado ha identificado lim
 
 Esta situación refleja una problemática estructural caracterizada por la falta de monitoreo en tiempo real, deficiencias en infraestructura y dependencia de procesos manuales, lo que incrementa el riesgo de deterioro de los medicamentos. Como consecuencia, se generan pérdidas económicas, desabastecimiento y, principalmente, riesgos para la salud de los pacientes, evidenciando la necesidad de implementar soluciones tecnológicas que permitan supervisar de manera eficiente las condiciones de almacenamiento.
 ### 1.2.2. Lean UX Process
-
+#### 1.2.2.1. Lean UX Problem Statements
 ### Dominio y Alcance del Problema
 El proyecto se enmarca en el sector salud, específicamente en la gestión y almacenamiento de medicamentos dentro de hospitales, centros de distribución y almacenes farmacéuticos en el Perú. A pesar de la importancia crítica de mantener condiciones adecuadas de conservación, la supervisión de variables como temperatura, humedad y luz aún presenta deficiencias debido a procesos manuales, infraestructura limitada y ausencia de monitoreo en tiempo real.
 
@@ -97,9 +97,43 @@ No existe un sistema digital integrado que permita monitorear en tiempo real las
 - Tiempo de respuesta.
 - Disponibilidad de datos históricos.
 
+#### 1.2.2.2. Lean UX Assumptions
+
 #### 1.2.2.1. Lean UX Problem Statements
 
-#### 1.2.2.2. Lean UX Assumptions
+**Sobre usuarios (personal de almacenes, farmacéuticos, administradores de salud)**
+- Asumimos que el personal encargado del almacenamiento prioriza mantener condiciones adecuadas de temperatura, humedad y luz para conservar los medicamentos.
+- Asumimos que necesitan información en tiempo real sobre las condiciones ambientales para tomar decisiones rápidas.
+- Asumimos que valoran sistemas simples y fáciles de usar, debido a la carga operativa diaria.
+- Asumimos que toleran poca complejidad en el uso de nuevas tecnologías, por lo que requieren interfaces intuitivas.
+- Asumimos que consideran importante recibir alertas inmediatas ante cualquier variación crítica en las condiciones de almacenamiento.
+- Asumimos que una parte del personal depende aún de registros manuales, como cuadernos o Excel.
+- Asumimos que existe interés en digitalizar procesos si esto reduce errores y facilita su trabajo.
+- Asumimos que el personal valora la trazabilidad de los datos para auditorías y cumplimiento de normativas.
+
+**Sobre entidades de salud (hospitales, MINSA, centros de distribución como Lurín)**
+- Asumimos que muchas entidades gestionan el almacenamiento de medicamentos con procesos manuales o parcialmente digitalizados.
+- Asumimos que carecen de monitoreo continuo y automatizado de condiciones ambientales.
+- Asumimos que necesitan garantizar el cumplimiento de normativas sanitarias relacionadas al almacenamiento.
+- Asumimos que requieren información histórica para auditorías y toma de decisiones.
+- Asumimos que buscan reducir pérdidas económicas por medicamentos deteriorados o vencidos.
+- Asumimos que la centralización de información facilitaría la gestión de múltiples almacenes o sedes.
+- Asumimos que existe interés en soluciones tecnológicas que mejoren la eficiencia operativa.
+
+**Sobre comportamiento y riesgos**
+- Asumimos que la falta de monitoreo en tiempo real incrementa el riesgo de deterioro de medicamentos.
+- Asumimos que errores humanos en registros manuales pueden generar información inexacta.
+- Asumimos que la ausencia de alertas inmediatas retrasa la respuesta ante condiciones críticas.
+- Asumimos que condiciones ambientales inadecuadas pueden pasar desapercibidas durante largos periodos.
+- Asumimos que la falta de trazabilidad dificulta identificar responsabilidades ante incidentes.
+
+**Sobre tecnología y datos**
+- Asumimos que las entidades están dispuestas a implementar sensores IoT si estos mejoran el control y monitoreo.
+- Asumimos que existe disponibilidad de conexión a internet en la mayoría de almacenes principales.
+- Asumimos que los datos de temperatura, humedad y luz pueden ser recolectados y procesados en tiempo real.
+- Asumimos que la visualización de datos en dashboards facilita la toma de decisiones.
+- Asumimos que el registro histórico de datos permitirá análisis y mejora continua del proceso.
+- Asumimos que la automatización mediante alertas reducirá la dependencia de la supervisión manual.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
