@@ -134,6 +134,23 @@ No existe un sistema digital integrado que permita monitorear en tiempo real las
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+- **Hipótesis 1:**  
+  Si ofrecemos una plataforma web que permita el monitoreo en tiempo real de las condiciones ambientales de almacenamiento de medicamentos, entonces el personal encargado podrá tomar decisiones oportunas para evitar el deterioro de los productos farmacéuticos.
+
+- **Hipótesis 2:**  
+  Si las entidades de salud cuentan con un sistema que genere alertas automáticas ante variaciones de temperatura, humedad o luz, entonces podrán reducir riesgos asociados al almacenamiento inadecuado y mejorar la seguridad de los medicamentos.
+
+- **Hipótesis 3:**  
+  Si los usuarios pueden visualizar datos históricos y reportes sobre las condiciones de almacenamiento, entonces podrán mejorar la trazabilidad y cumplir con las normativas sanitarias de manera más eficiente.
+
+- **Hipótesis 4:**  
+  Si se implementa el uso de sensores IoT integrados a una plataforma digital, entonces se reducirá la dependencia de procesos manuales y se minimizarán los errores humanos en el control de condiciones ambientales.
+
+- **Hipótesis 5:**  
+  Si las entidades de salud utilizan un sistema centralizado para gestionar múltiples almacenes o sedes, entonces podrán optimizar la gestión de recursos, reducir pérdidas económicas y mejorar la eficiencia operativa.
+
 #### 1.2.2.4. Lean UX Canvas
 
 ---
