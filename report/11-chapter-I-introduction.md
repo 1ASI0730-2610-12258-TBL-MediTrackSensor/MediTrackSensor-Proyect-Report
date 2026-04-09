@@ -198,3 +198,37 @@ Realizar entrevistas con personal de almacenes y profesionales de salud, además
 ---
 
 ## 1.3. Segmentos objetivo
+
+### 1.3. Segmentos objetivo
+
+**1. Personal operativo de almacenes farmacéuticos**  
+Este segmento agrupa a operarios, técnicos y responsables del almacenamiento de medicamentos en hospitales, clínicas y centros de distribución en el Perú, incluyendo almacenes estratégicos como los de Lurín. Son los encargados directos de supervisar las condiciones en las que se conservan los productos farmacéuticos.
+
+**Características demográficas:**
+- Edad: 25 – 50 años
+- Ubicación: Lima Metropolitana y principales regiones del país
+- Nivel socioeconómico: NSE B y C
+- Ocupación: Técnicos en farmacia, operarios logísticos, encargados de almacén
+
+**Necesidad prioritaria:**  
+Contar con herramientas tecnológicas simples que permitan monitorear en tiempo real las condiciones ambientales (temperatura, humedad y luz), recibir alertas automáticas y reducir la dependencia de registros manuales.
+
+**Sustento estadístico:**  
+Según la Contraloría General de la República, se han identificado deficiencias en el almacenamiento de medicamentos en establecimientos de salud del Perú, incluyendo falta de control ambiental y registros manuales, lo que evidencia la necesidad de mejorar los procesos y herramientas utilizadas por este personal.
+
+---
+
+**2. Entidades de salud y gestores farmacéuticos (MINSA, hospitales y clínicas)**  
+Este segmento incluye instituciones públicas y privadas responsables de la gestión, supervisión y distribución de medicamentos a nivel nacional, como el MINSA, hospitales, clínicas y centros de distribución.
+
+**Características demográficas / organizacionales:**
+- Tipo de entidad: Instituciones del sector salud (públicas y privadas)
+- Cobertura: Local, regional y nacional
+- Ubicación: Principalmente zonas urbanas y centros logísticos (ej. Lurín)
+- Responsables: Químicos farmacéuticos, administradores, gestores logísticos
+
+**Necesidad prioritaria:**  
+Sistemas que permitan monitorear múltiples almacenes en tiempo real, garantizar condiciones adecuadas durante almacenamiento y transporte, cumplir normativas sanitarias y mejorar la trazabilidad de los medicamentos.
+
+**Sustento estadístico:**  
+De acuerdo con el diario oficial El Peruano, el Estado peruano ha implementado mejoras en infraestructura de almacenamiento de medicamentos debido a limitaciones identificadas, lo que evidencia brechas en la gestión actual. Asimismo, la Contraloría ha reportado deficiencias en el control de condiciones de almacenamiento en diversos establecimientos de salud.
