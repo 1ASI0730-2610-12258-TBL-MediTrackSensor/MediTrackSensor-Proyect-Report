@@ -4,8 +4,6 @@
 
 ### 2.1.1. Análisis competitivo
 
-### 2.1.1. Análisis competitivo
-
 <table>
   <tr>
     <th colspan="6">Competitive Analysis Landscape</th>
@@ -31,14 +29,14 @@
   <tr>
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
-    <td>Plataforma web peruana con sensores IoT para monitorear temperatura, humedad y luz en almacenes farmacéuticos de hospitales, clínicas y farmacias, con alertas en tiempo real e historial de datos, alineada a normativas locales (DIGEMID, BPA).</td>
+    <td>Plataforma web peruana con sensores IoT para monitorear temperatura, humedad y luz en almacenes farmacéuticos de hospitales, clínicas y farmacias, con alertas en tiempo real e historial de datos, alineada a normativas sanitarias locales.</td>
     <td>Empresa estadounidense líder global en monitoreo de cadena de frío farmacéutica, con sensores TempTale y plataforma SensiWatch. Parte de Carrier Global Corporation. Más de 30 años en el mercado.</td>
     <td>Empresa estadounidense fundada en 2010, especializada en sensores IoT inalámbricos de bajo costo para monitoreo remoto en múltiples industrias incluyendo salud. Plataforma en la nube iMonnit disponible vía web y app móvil.</td>
     <td>Empresa de origen chino con presencia global, orientada a sensores inalámbricos de temperatura y humedad para hospitales, clínicas y farmacias pequeñas. Solución accesible con pago único sin costos recurrentes.</td>
   </tr>
   <tr>
     <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
-    <td>Solución diseñada específicamente para el contexto peruano: normativa local, infraestructura limitada, hospitales públicos y entidades como el MINSA. Primera opción adaptada al mercado de salud latinoamericano.</td>
+    <td>Solución diseñada específicamente para el contexto peruano: normativas sanitarias locales, infraestructura limitada, hospitales públicos y entidades como el MINSA. Primera opción adaptada al mercado de salud latinoamericano.</td>
     <td>Validación regulatoria global (FDA 21 CFR Parte 11, GAMP5), precisión certificada NIST, y cobertura de cadena de frío extrema (hasta -200 °C). Confianza y respaldo de las principales farmacéuticas del mundo.</td>
     <td>Sensores desde $49 con monitoreo básico gratuito, batería de hasta 10 años, configuración en 15 minutos y más de 80 tipos de sensores. Relación costo-beneficio superior en el segmento de pequeñas y medianas instituciones.</td>
     <td>Sistema completo desde $50 con inversión única sin costos recurrentes, alertas vía app, email y buzzer, con monitoreo 24/7. Ideal para farmacias y clínicas con presupuesto muy reducido.</td>
@@ -53,7 +51,7 @@
   </tr>
   <tr>
     <td>Estrategias de Marketing</td>
-    <td>Enfoque directo en instituciones de salud peruanas, alianzas con el sector público, propuesta de valor orientada al cumplimiento de normativas DIGEMID y reducción de pérdidas económicas por deterioro.</td>
+    <td>Enfoque directo en instituciones de salud peruanas, alianzas con el sector público, propuesta de valor orientada al cumplimiento de normativas sanitarias locales y reducción de pérdidas económicas por deterioro.</td>
     <td>Posicionamiento premium, certificaciones regulatorias como diferencial, casos de éxito con farmacéuticas globales (Pfizer, Direct Relief), ventas B2B a través de distribuidores especializados.</td>
     <td>Marketing digital con énfasis en bajo costo y facilidad de uso, prueba gratuita de 45 días, distribuidores internacionales, y reconocimiento por premios tecnológicos (IoT Breakthrough Award 2024 y 2025).</td>
     <td>E-commerce directo al consumidor (D2C), precio competitivo como principal argumento, venta a través de plataformas como Amazon y su sitio web propio.</td>
@@ -68,12 +66,8 @@
   </tr>
   <tr>
     <td>Precios y Costos</td>
-<td>Modelo SaaS con suscripción mensual según número de sedes: 
-Plan Básico (una sede, visualización en tiempo real y alertas básicas), 
-Plan Profesional (varias áreas o sucursales, historial, reportes y alertas avanzadas), 
-Plan Premium (múltiples sedes centralizadas, automatización, análisis de tendencias 
-y soporte prioritario).</td>
-<td>Precio elevado, orientado a contratos corporativos. No disponible públicamente; se gestiona mediante cotización directa con distribuidores autorizados.</td>
+    <td>Modelo SaaS con suscripción mensual según número de sedes: Plan Básico (una sede, visualización en tiempo real y alertas básicas), Plan Profesional (varias áreas o sucursales, historial, reportes y alertas avanzadas), Plan Premium (múltiples sedes centralizadas, automatización, análisis de tendencias y soporte prioritario).</td>
+    <td>Precio elevado, orientado a contratos corporativos. No disponible públicamente; se gestiona mediante cotización directa con distribuidores autorizados.</td>
     <td>Sensores desde $49. Monitoreo básico gratuito. Plan Premiere con funcionalidades avanzadas a bajo costo anual.</td>
     <td>Sistema completo desde $50 como inversión única sin costos de suscripción recurrentes.</td>
   </tr>
@@ -87,7 +81,7 @@ y soporte prioritario).</td>
   <tr>
     <td rowspan="4">Análisis SWOT</td>
     <td>Fortalezas</td>
-    <td>Adaptación al mercado y normativa peruana (DIGEMID, BPA), enfoque exclusivo en salud farmacéutica, conocimiento del problema local, costo accesible para el sector público.</td>
+    <td>Adaptación al mercado y normativas sanitarias peruanas, enfoque exclusivo en salud farmacéutica, conocimiento del problema local, costo accesible para el sector público.</td>
     <td>Liderazgo global con 30+ años de experiencia, validación regulatoria rigurosa (FDA, GAMP5), precisión certificada NIST, cobertura de temperaturas extremas y respaldo de Carrier Global.</td>
     <td>Bajo costo de entrada, amplio catálogo de sensores, configuración rápida (15 minutos), batería de larga duración (10+ años) y plataforma gratuita para uso básico.</td>
     <td>Precio de entrada muy bajo ($50), sin costos recurrentes, fácil instalación, cobertura de temperatura amplia y presencia en e-commerce global.</td>
@@ -97,7 +91,7 @@ y soporte prioritario).</td>
     <td>Startup sin trayectoria comprobada, base de clientes aún por construir, recursos limitados para escalar rápidamente y sin certificaciones regulatorias internacionales.</td>
     <td>Precio prohibitivo para hospitales públicos latinoamericanos, orientado exclusivamente a grandes corporaciones, sin adaptación a normativas locales del Perú.</td>
     <td>No está especializado en el sector farmacéutico ni adaptado a normativas latinoamericanas; soporte técnico limitado fuera de EE.UU.</td>
-    <td>Funcionalidades limitadas para entornos regulados, sin cumplimiento de normativas farmacéuticas (FDA, DIGEMID), soporte postventa escaso y sin presencia local en Perú.</td>
+    <td>Funcionalidades limitadas para entornos regulados, sin cumplimiento de normativas farmacéuticas reconocidas, soporte postventa escaso y sin presencia local en Perú.</td>
   </tr>
   <tr>
     <td>Oportunidades</td>
@@ -117,7 +111,6 @@ y soporte prioritario).</td>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-
 A partir del análisis competitivo realizado, MediTrack Sensor define las siguientes
 estrategias y tácticas para posicionarse frente a sus competidores:
 
@@ -129,8 +122,8 @@ su precio prohibitivo y su orientación exclusiva a grandes corporaciones lo hac
 inaccesible para hospitales públicos y clínicas medianas en el Perú. MediTrack Sensor
 aprovechará esta brecha ofreciendo planes de suscripción accesibles adaptados al
 presupuesto del sector salud peruano, con soporte en español y alineación a
-normativas locales como DIGEMID y BPA, aspectos que Sensitech no cubre para
-el mercado latinoamericano.
+normativas sanitarias locales, aspectos que Sensitech no cubre para el mercado
+latinoamericano.
 
 **Frente a Monnit (iMonnit)**
 
@@ -140,28 +133,27 @@ normativas latinoamericanas. Además, su soporte técnico es limitado fuera de
 EE.UU. MediTrack Sensor se diferenciará mediante un enfoque exclusivo en salud
 farmacéutica, con funcionalidades específicas como gestión de medicamentos según
 sus condiciones de conservación, reportes orientados al cumplimiento de normativas
-DIGEMID y soporte técnico local, aspectos que Monnit no puede garantizar para
-el contexto peruano.
+sanitarias peruanas y soporte técnico local, aspectos que Monnit no puede garantizar
+para el contexto peruano.
 
 **Frente a MOCREO**
 
 MOCREO compite en precio con una inversión única desde $50 sin costos recurrentes,
 atractivo para organizaciones con presupuesto muy reducido. Sin embargo, sus
 funcionalidades son limitadas para entornos regulados y carece de certificaciones
-farmacéuticas reconocidas como DIGEMID. MediTrack Sensor responderá destacando
-el valor agregado de su modelo SaaS: actualizaciones continuas, soporte técnico
-local, historial de datos en la nube y cumplimiento normativo, beneficios que una
-solución de pago único no puede garantizar a largo plazo. Adicionalmente, el Plan
-Básico de MediTrack Sensor ofrece un punto de entrada económico competitivo
-para farmacias y clínicas pequeñas que actualmente consideran MOCREO como
-única opción accesible.
+farmacéuticas reconocidas. MediTrack Sensor responderá destacando el valor agregado
+de su modelo SaaS: actualizaciones continuas, soporte técnico local, historial de datos
+en la nube y cumplimiento normativo, beneficios que una solución de pago único no
+puede garantizar a largo plazo. Adicionalmente, el Plan Básico de MediTrack Sensor
+ofrece un punto de entrada económico competitivo para farmacias y clínicas pequeñas
+que actualmente consideran MOCREO como única opción accesible.
 
 **Estrategia general**
 
 MediTrack Sensor se posicionará como la única solución de monitoreo ambiental
 farmacéutico diseñada específicamente para el mercado peruano, combinando
 accesibilidad económica mediante sus tres planes de suscripción, adaptación a
-normativas locales (DIGEMID, BPA) y tecnología IoT orientada al sector salud.
+normativas sanitarias peruanas y tecnología IoT orientada al sector salud.
 Las principales tácticas a implementar son alianzas directas con instituciones del
 sector salud público como el MINSA y redes hospitalarias, una propuesta de valor
 centrada en la reducción de pérdidas económicas por deterioro de medicamentos,
@@ -175,6 +167,61 @@ de diferenciación mediante capacitación y soporte continuo.
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
+
+Con el objetivo de recolectar información relevante para la construcción de los
+arquetipos de cada segmento objetivo, se diseñaron las siguientes preguntas
+orientadas a identificar características demográficas, objetivas y subjetivas de
+los entrevistados.
+
+**Segmento 1: Personal operativo de almacenes farmacéuticos**
+
+Preguntas demográficas:
+1. ¿Cuál es su nombre, edad y distrito donde reside?
+2. ¿Cuál es su ocupación actual y en qué tipo de institución trabaja?
+3. ¿Cuánto tiempo lleva trabajando en el área de almacenamiento farmacéutico?
+
+Preguntas principales:
+1. ¿Cómo realiza actualmente el control de temperatura, humedad y luz en el almacén?
+2. ¿Con qué frecuencia registra las condiciones ambientales del almacén?
+3. ¿Ha tenido casos de medicamentos deteriorados por condiciones inadecuadas de
+   almacenamiento? ¿Qué pasó?
+4. ¿Cómo se entera actualmente cuando algo sale mal con las condiciones del almacén?
+5. ¿Qué tan rápido puede reaccionar ante una variación crítica de temperatura o humedad?
+6. ¿Qué herramientas o equipos usa actualmente para el monitoreo?
+7. ¿Qué tan cómodo se siente usando aplicaciones web o tecnología en su trabajo diario?
+
+Preguntas complementarias:
+1. ¿Qué dispositivos usa con más frecuencia en su trabajo (computadora, celular, tablet)?
+2. ¿Qué navegador o aplicaciones usa habitualmente?
+3. ¿Qué tan frustrante es el proceso actual de registro manual?
+4. Si tuviera una herramienta que le alertara automáticamente, ¿cómo cambiaría su trabajo?
+5. ¿Qué tan dispuesto estaría su institución a pagar por una solución de monitoreo digital?
+
+**Segmento 2: Entidades de salud y gestores farmacéuticos**
+
+Preguntas demográficas:
+1. ¿Cuál es su nombre, edad y distrito donde reside?
+2. ¿Cuál es su cargo y en qué tipo de institución trabaja (hospital, clínica, MINSA)?
+3. ¿Cuántas sedes o almacenes supervisa actualmente?
+
+Preguntas principales:
+1. ¿Cómo supervisa actualmente las condiciones de almacenamiento en las sedes a su cargo?
+2. ¿Qué tan difícil es tener visibilidad del estado de múltiples almacenes al mismo tiempo?
+3. ¿Ha enfrentado problemas de incumplimiento normativo relacionados al almacenamiento?
+   ¿Cómo los manejó?
+4. ¿Qué tipo de reportes o registros le exigen las normativas sanitarias vigentes?
+5. ¿Cómo toma decisiones cuando recibe un reporte de condiciones inadecuadas?
+6. ¿Qué tan importante es para usted tener acceso a datos históricos de las condiciones
+   de almacenamiento?
+7. ¿Ha evaluado o usado alguna solución tecnológica para este problema?
+   ¿Cuál fue su experiencia?
+
+Preguntas complementarias:
+1. ¿Qué dispositivos prefiere para supervisar información de gestión (computadora, celular)?
+2. ¿Qué tan abierta está su institución a adoptar nuevas tecnologías?
+3. ¿Cuál sería el principal obstáculo para implementar una solución digital en su institución?
+4. ¿Qué funcionalidad consideraría indispensable en una plataforma de monitoreo?
+5. ¿Qué presupuesto aproximado destina su institución a herramientas de control de calidad?
 
 ### 2.2.2. Registro de entrevistas
 
