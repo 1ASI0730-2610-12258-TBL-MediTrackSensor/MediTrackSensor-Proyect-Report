@@ -68,8 +68,12 @@
   </tr>
   <tr>
     <td>Precios y Costos</td>
-    <td>Por definir (modelo SaaS orientado a instituciones de salud peruanas con presupuesto público limitado).</td>
-    <td>Precio elevado, orientado a contratos corporativos. No disponible públicamente; se gestiona mediante cotización directa con distribuidores autorizados.</td>
+<td>Modelo SaaS con suscripción mensual según número de sedes: 
+Plan Básico (una sede, visualización en tiempo real y alertas básicas), 
+Plan Profesional (varias áreas o sucursales, historial, reportes y alertas avanzadas), 
+Plan Premium (múltiples sedes centralizadas, automatización, análisis de tendencias 
+y soporte prioritario).</td>
+<td>Precio elevado, orientado a contratos corporativos. No disponible públicamente; se gestiona mediante cotización directa con distribuidores autorizados.</td>
     <td>Sensores desde $49. Monitoreo básico gratuito. Plan Premiere con funcionalidades avanzadas a bajo costo anual.</td>
     <td>Sistema completo desde $50 como inversión única sin costos de suscripción recurrentes.</td>
   </tr>
@@ -112,6 +116,59 @@
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+
+A partir del análisis competitivo realizado, MediTrack Sensor define las siguientes
+estrategias y tácticas para posicionarse frente a sus competidores:
+
+**Frente a Sensitech (TempTale)**
+
+Sensitech es el competidor más consolidado del mercado con más de 30 años de
+experiencia y certificaciones regulatorias globales como FDA y GAMP5. Sin embargo,
+su precio prohibitivo y su orientación exclusiva a grandes corporaciones lo hacen
+inaccesible para hospitales públicos y clínicas medianas en el Perú. MediTrack Sensor
+aprovechará esta brecha ofreciendo planes de suscripción accesibles adaptados al
+presupuesto del sector salud peruano, con soporte en español y alineación a
+normativas locales como DIGEMID y BPA, aspectos que Sensitech no cubre para
+el mercado latinoamericano.
+
+**Frente a Monnit (iMonnit)**
+
+Monnit ofrece una solución de bajo costo con amplio catálogo de sensores, pero
+carece de especialización en el sector farmacéutico y no está adaptado a las
+normativas latinoamericanas. Además, su soporte técnico es limitado fuera de
+EE.UU. MediTrack Sensor se diferenciará mediante un enfoque exclusivo en salud
+farmacéutica, con funcionalidades específicas como gestión de medicamentos según
+sus condiciones de conservación, reportes orientados al cumplimiento de normativas
+DIGEMID y soporte técnico local, aspectos que Monnit no puede garantizar para
+el contexto peruano.
+
+**Frente a MOCREO**
+
+MOCREO compite en precio con una inversión única desde $50 sin costos recurrentes,
+atractivo para organizaciones con presupuesto muy reducido. Sin embargo, sus
+funcionalidades son limitadas para entornos regulados y carece de certificaciones
+farmacéuticas reconocidas como DIGEMID. MediTrack Sensor responderá destacando
+el valor agregado de su modelo SaaS: actualizaciones continuas, soporte técnico
+local, historial de datos en la nube y cumplimiento normativo, beneficios que una
+solución de pago único no puede garantizar a largo plazo. Adicionalmente, el Plan
+Básico de MediTrack Sensor ofrece un punto de entrada económico competitivo
+para farmacias y clínicas pequeñas que actualmente consideran MOCREO como
+única opción accesible.
+
+**Estrategia general**
+
+MediTrack Sensor se posicionará como la única solución de monitoreo ambiental
+farmacéutico diseñada específicamente para el mercado peruano, combinando
+accesibilidad económica mediante sus tres planes de suscripción, adaptación a
+normativas locales (DIGEMID, BPA) y tecnología IoT orientada al sector salud.
+Las principales tácticas a implementar son alianzas directas con instituciones del
+sector salud público como el MINSA y redes hospitalarias, una propuesta de valor
+centrada en la reducción de pérdidas económicas por deterioro de medicamentos,
+y un modelo de onboarding simple que reduzca la resistencia a la adopción
+tecnológica en organizaciones con poca cultura digital, aprovechando la baja
+cultura tecnológica identificada como amenaza para convertirla en una oportunidad
+de diferenciación mediante capacitación y soporte continuo.
 
 ---
 
