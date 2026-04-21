@@ -34,6 +34,14 @@
 
 ### 4.4.1. Web Applications Wireframes
 
+En esta sección se presentan los wireframes de la versión web de MediTrack Sensor,
+organizados según los dos perfiles principales de usuario: personal operativo de almacenes
+farmacéuticos y entidades de salud. Cada diseño está orientado a ofrecer una experiencia
+clara, coherente y centrada en las necesidades de cada segmento, facilitando la supervisión
+de condiciones ambientales, el acceso a información relevante y la toma de decisiones.
+Asimismo, se busca asegurar una navegación intuitiva y fluida a lo largo de la plataforma.
+
+<img src="./../assets/WebApplicationWireframes.png" alt="WebApp Wireframes" width="700">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -57,6 +65,7 @@ temperatura, humedad y luz, detecta variaciones fuera de rango y registra incide
 Este flujo describe la experiencia de entidades de salud y gestores farmacéuticos, quienes 
 requieren una visión estratégica del sistema. Desde su panel, supervisan múltiples almacenes, 
 acceden a datos históricos, analizan tendencias y apoyan la toma de decisiones.
+
 <img src="./../assets/SegmentoEntidadSalud.png" alt="Wireflow Entidad Salud" width="700">
 
 
