@@ -24,7 +24,105 @@
 
 ## 4.3. Landing Page UI Design
 
+El diseño de la interfaz de usuario (UI) de la página de inicio de MediTrack Sensor
+es fundamental para captar la atención de los visitantes y comunicar de forma clara 
+su propuesta de valor: el monitoreo en tiempo real de las condiciones ambientales en el 
+almacenamiento de medicamentos. El enfoque del diseño se centra en ofrecer una experiencia 
+intuitiva, estructurada y orientada a la toma de decisiones, garantizando que cada elemento
+sea comprensible y fácil de utilizar, reflejando el compromiso del producto con la eficiencia,
+la precisión y la confiabilidad en el sector salud.
+
 ### 4.3.1. Landing Page Wireframe
+
+El wireframe de la página de inicio funciona como un mapa visual que define la estructura, 
+jerarquía y flujo de la información. Este esquema asegura una disposición lógica de los componentes
+, facilitando la navegación y destacando la propuesta de valor de MediTrack Sensor. Las secciones
+están diseñadas para guiar al usuario desde la comprensión del problema hasta el interés por la solución.
+
+**Nav y Hero**
+
+La sección inicial presenta el logotipo de MediTrack Sensor junto con un eslogan orientado a la precisión 
+y el control en el almacenamiento de medicamentos. La barra de navegación permite acceder a secciones
+clave como Tecnología, Sectores, Nosotros y Planes. El área principal comunica de forma inmediata el
+propósito del sistema: monitorear variables críticas como temperatura, humedad y luz en tiempo real.
+Se incluye un llamado a la acción visible que incentiva al usuario a obtener más información o 
+establecer contacto. Un recurso visual relacionado al entorno farmacéutico refuerza el contexto del producto.
+
+<img src="../assets/navYHero.png" alt="Landing Page Mockup" style="max-width: 100%; height: auto;">
+
+**Tecnología (How It Works)**
+
+En esta sección se explica el funcionamiento del sistema, destacando la integración de sensores IoT
+con la plataforma web. Se presentan las variables monitoreadas (temperatura, humedad y luz), así 
+como el flujo de datos hacia dashboards en tiempo real. La información se organiza de manera clara 
+para que el usuario comprenda cómo el sistema captura, procesa y presenta los datos.
+
+<img src="../assets/tecnologia.png" alt="Landing Page Mockup" style="max-width: 100%; height: auto;">
+
+
+**Beneficios del sistema**
+
+Esta sección describe el valor que ofrece MediTrack Sensor, enfocándose en la reducción de pérdidas 
+por deterioro de medicamentos, la mejora en la trazabilidad y el cumplimiento de normativas sanitarias.
+Se resaltan beneficios como alertas automáticas, acceso a información en tiempo real y disponibilidad 
+de datos históricos para auditorías y toma de decisiones.
+
+<img src="../assets/sobrePlataforma.png" alt="Landing Page Mockup" style="max-width: 100%; height: auto;">
+
+<img src="../assets/comoFunciona.png" alt="Landing Page Mockup" style="max-width: 100%; height: auto;">
+
+
+**Sectores (Aplicación del sistema)**
+
+Aquí se presentan los distintos contextos donde el sistema puede ser aplicado, como hospitales, clínicas,
+farmacias y centros de distribución. Cada segmento se describe brevemente, permitiendo que el usuario
+identifique rápidamente cómo el producto se adapta a su entorno.
+
+<img src="../assets/paraQuien.png" alt="Landing Page Mockup" style="max-width: 100%; height: auto;">
+
+
+**Sobre el Equipo (Nosotros)**
+
+Esta sección muestra al equipo detrás de MediTrack Sensor, incluyendo información relevante sobre sus 
+integrantes. Su objetivo es generar confianza y credibilidad, humanizando la solución y mostrando el 
+compromiso del equipo con el desarrollo del producto.
+
+<img src="../assets/quienesSomos.png" alt="Landing Page Mockup" style="max-width: 100%; height: auto;">
+
+
+**Planes (Pricing)**
+
+La sección de planes presenta las opciones de suscripción del sistema, organizadas según el número de 
+sedes y funcionalidades disponibles. Se describen características como monitoreo en tiempo real, alertas,
+acceso a historial y gestión centralizada, permitiendo al usuario identificar la opción más adecuada
+según sus necesidades.
+
+<img src="../assets/planesPagos.png" alt="Landing Page Mockup" style="max-width: 100%; height: auto;">
+
+
+**Contacto**
+
+En esta sección, los usuarios pueden establecer contacto directo con el equipo de MediTrack Sensor
+para solicitar información adicional, resolver dudas o explorar oportunidades de implementación 
+en sus instituciones. Se busca ofrecer un canal claro, accesible y confiable que facilite la comunicación
+y permita a los interesados dar el siguiente paso hacia la adopción de una solución de monitoreo 
+eficiente y adaptada al sector salud.
+
+<img src="../assets/contacto.png" alt="Landing Page Mockup" style="max-width: 100%; height: auto;">
+
+
+**Footer**
+
+El pie de página incluye enlaces a información relevante como términos de servicio, políticas de privacidad
+y medios de contacto. Este elemento proporciona un cierre estructurado a la página, permitiendo acceso 
+rápido a información adicional sin afectar la claridad del diseño principal.
+
+<img src="../assets/footer.png" alt="Landing Page Mockup" style="max-width: 100%; height: auto;">
+
+
+Este wireframe establece las bases para un diseño que no solo comunica la propuesta de valor de manera
+efectiva, sino que también guía al usuario a través de una experiencia clara, funcional y alineada 
+con las necesidades del sector salud.
 
 ### 4.3.2. Landing Page Mock-up
 
