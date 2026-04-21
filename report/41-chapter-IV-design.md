@@ -34,7 +34,31 @@
 
 ### 4.4.1. Web Applications Wireframes
 
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+En esta sección se presentan los diagramas de flujo de interacción (wireflows) de 
+la aplicación web de MediTrack Sensor, los cuales ilustran la navegación y las 
+principales acciones que pueden realizar los distintos segmentos de usuarios dentro 
+de la plataforma. Estos diagramas permiten visualizar cómo los usuarios interactúan con el sistema, 
+facilitando la comprensión de la estructura funcional y de la experiencia de uso orientada al 
+monitoreo de condiciones ambientales en tiempo real.
+
+**Flujo tras inicio de sesión de Segmento Personal Operativo**
+
+Este flujo representa el recorrido del personal operativo de almacenes farmacéuticos, enfocado en
+la supervisión en tiempo real de condiciones ambientales. El usuario visualiza variables como 
+temperatura, humedad y luz, detecta variaciones fuera de rango y registra incidencias.
+
+<img src="./../assets/SegmentoPersonalOperativo.png" alt="Wireflow Personal Operativo" width="700">
+
+**Flujo tras inicio de sesión de Segmento Entidades de Salud**
+
+Este flujo describe la experiencia de entidades de salud y gestores farmacéuticos, quienes 
+requieren una visión estratégica del sistema. Desde su panel, supervisan múltiples almacenes, 
+acceden a datos históricos, analizan tendencias y apoyan la toma de decisiones.
+<img src="./../assets/SegmentoEntidadSalud.png" alt="Wireflow Entidad Salud" width="700">
+
 
 ### 4.4.3. Web Applications Mock-ups
 
