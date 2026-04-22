@@ -225,9 +225,35 @@ Preguntas complementarias:
 
 ### 2.2.2. Registro de entrevistas
 
-### 2.2.3. Análisis de entrevistas
+#### Segmento 01
+
+* Nombre : Dolores Alvarez Cabeza
+* Edad : 62
+* Distrito : San Martín de Porres
+* Ocupación : Personal de salud asistencial
+* Browser: Google Chrome
+* Device : Computadora de escritorio
+
+![Entrevista](./assets/segmento01-entrevista.png)
+Dolores Álvarez Cabeza, de 62 años y residente en San Martín de Porres, se desempeña como personal de salud asistencial y utiliza una computadora de escritorio con Google Chrome para registrar la temperatura de los medicamentos en hojas de Excel. Señala que existen distintos tipos de medicamentos con requerimientos específicos de conservación, especialmente en lo relacionado a la temperatura; por ejemplo, en el caso de medicamentos destinados a recién nacidos, es fundamental mantener condiciones cercanas a los 24 °C para garantizar su eficacia y seguridad. Actualmente, el monitoreo se realiza de forma manual cada 6 horas, lo que implica un proceso repetitivo y propenso a errores humanos. Además, menciona que durante su experiencia en el Hospital San José, al ser una institución pública, en ocasiones no contaban con los recursos necesarios para asegurar un monitoreo adecuado de las condiciones de almacenamiento.
 
 ---
+#### Segmento 02
+
+* Nombre : Dayana Quispe
+* Edad : 25
+* Distrito : La Molina
+* Ocupación : practicas farmaceuticas
+* Browser: Google Chrome
+* Device : Computadora de escritorio
+
+![Entrevista](./assets/segmento02-entrevista.png)
+
+Dayana Quispe, de 25 años y residente en La Molina, realiza prácticas farmacéuticas y utiliza una computadora de escritorio del hospital con Google Chrome en sus actividades. Durante sus prácticas, comenta que el monitoreo de temperatura y humedad se realiza de forma manual, registrando los datos en un cuaderno con apoyo de termómetros e hidrómetros, generalmente dos o tres veces al día dependiendo del turno asignado. Señala que este proceso puede ser riesgoso, ya que no permite un seguimiento continuo; por ejemplo, menciona que en una ocasión falló inesperadamente el módulo donde se almacenaban vacunas, lo que ocasionó la pérdida de algunas de ellas. Además, explica que, si la temperatura se registra correctamente en un momento dado pero el sistema se avería horas después, no se detectarían cambios a tiempo, ya que se asumiría que las condiciones siguen siendo adecuadas.
+
+### 2.2.3. Análisis de entrevistas
+
+
 
 ## 2.3. Needfinding
 
