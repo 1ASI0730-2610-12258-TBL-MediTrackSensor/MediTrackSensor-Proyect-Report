@@ -48,7 +48,7 @@ propósito del sistema: monitorear variables críticas como temperatura, humedad
 Se incluye un llamado a la acción visible que incentiva al usuario a obtener más información o 
 establecer contacto. Un recurso visual relacionado al entorno farmacéutico refuerza el contexto del producto.
 
-<img src="../assets/navYHero.png" alt="Landing Page Mockup" style="max-width: 100%; height: auto;">
+<img src="../assets/navYHero.png" alt="Landing Page Wireframe" style="max-width: 100%; height: auto;">
 
 **Tecnología (How It Works)**
 
@@ -57,7 +57,7 @@ con la plataforma web. Se presentan las variables monitoreadas (temperatura, hum
 como el flujo de datos hacia dashboards en tiempo real. La información se organiza de manera clara 
 para que el usuario comprenda cómo el sistema captura, procesa y presenta los datos.
 
-<img src="../assets/tecnologia.png" alt="Landing Page Mockup" style="max-width: 100%; height: auto;">
+<img src="../assets/tecnologia.png" alt="Landing Page Wireframe" style="max-width: 100%; height: auto;">
 
 
 **Beneficios del sistema**
@@ -67,9 +67,9 @@ por deterioro de medicamentos, la mejora en la trazabilidad y el cumplimiento de
 Se resaltan beneficios como alertas automáticas, acceso a información en tiempo real y disponibilidad 
 de datos históricos para auditorías y toma de decisiones.
 
-<img src="../assets/sobrePlataforma.png" alt="Landing Page Mockup" style="max-width: 100%; height: auto;">
+<img src="../assets/sobrePlataforma.png" alt="Landing Page Wireframe" style="max-width: 100%; height: auto;">
 
-<img src="../assets/comoFunciona.png" alt="Landing Page Mockup" style="max-width: 100%; height: auto;">
+<img src="../assets/comoFunciona.png" alt="Landing Page Wireframe" style="max-width: 100%; height: auto;">
 
 
 **Sectores (Aplicación del sistema)**
@@ -78,7 +78,7 @@ Aquí se presentan los distintos contextos donde el sistema puede ser aplicado, 
 farmacias y centros de distribución. Cada segmento se describe brevemente, permitiendo que el usuario
 identifique rápidamente cómo el producto se adapta a su entorno.
 
-<img src="../assets/paraQuien.png" alt="Landing Page Mockup" style="max-width: 100%; height: auto;">
+<img src="../assets/paraQuien.png" alt="Landing Page Wireframe" style="max-width: 100%; height: auto;">
 
 
 **Sobre el Equipo (Nosotros)**
@@ -87,7 +87,7 @@ Esta sección muestra al equipo detrás de MediTrack Sensor, incluyendo informac
 integrantes. Su objetivo es generar confianza y credibilidad, humanizando la solución y mostrando el 
 compromiso del equipo con el desarrollo del producto.
 
-<img src="../assets/quienesSomos.png" alt="Landing Page Mockup" style="max-width: 100%; height: auto;">
+<img src="../assets/quienesSomos.png" alt="Landing Page Wireframe" style="max-width: 100%; height: auto;">
 
 
 **Planes (Pricing)**
@@ -97,7 +97,7 @@ sedes y funcionalidades disponibles. Se describen características como monitore
 acceso a historial y gestión centralizada, permitiendo al usuario identificar la opción más adecuada
 según sus necesidades.
 
-<img src="../assets/planesPagos.png" alt="Landing Page Mockup" style="max-width: 100%; height: auto;">
+<img src="../assets/planesPagos.png" alt="Landing Page Wireframe" style="max-width: 100%; height: auto;">
 
 
 **Contacto**
@@ -108,7 +108,7 @@ en sus instituciones. Se busca ofrecer un canal claro, accesible y confiable que
 y permita a los interesados dar el siguiente paso hacia la adopción de una solución de monitoreo 
 eficiente y adaptada al sector salud.
 
-<img src="../assets/contacto.png" alt="Landing Page Mockup" style="max-width: 100%; height: auto;">
+<img src="../assets/contacto.png" alt="Landing Page Wireframe" style="max-width: 100%; height: auto;">
 
 
 **Footer**
@@ -117,7 +117,7 @@ El pie de página incluye enlaces a información relevante como términos de ser
 y medios de contacto. Este elemento proporciona un cierre estructurado a la página, permitiendo acceso 
 rápido a información adicional sin afectar la claridad del diseño principal.
 
-<img src="../assets/footer.png" alt="Landing Page Mockup" style="max-width: 100%; height: auto;">
+<img src="../assets/footer.png" alt="Landing Page Wireframe" style="max-width: 100%; height: auto;">
 
 
 Este wireframe establece las bases para un diseño que no solo comunica la propuesta de valor de manera
@@ -125,6 +125,81 @@ efectiva, sino que también guía al usuario a través de una experiencia clara,
 con las necesidades del sector salud.
 
 ### 4.3.2. Landing Page Mock-up
+
+Los mockups de MediTrack Sensor representan la versión visual de alta fidelidad de la Landing Page, 
+incorporando la identidad gráfica, paleta de colores y estilo visual del producto. La propuesta utiliza
+como colores principales el azul oscuro #1B304C, asociado a confianza y estabilidad, y el naranja #E87239,
+utilizado para resaltar información importante y llamados a la acción.
+
+Asimismo, se incorporan imágenes relacionadas al entorno farmacéutico y al monitoreo de medicamentos, 
+reforzando visualmente el enfoque del sistema en la seguridad, supervisión y control dentro del sector salud.
+
+**Nav y Hero**
+
+La sección principal presenta una interfaz moderna y limpia que comunica rápidamente la propuesta de valor 
+de MediTrack Sensor. Se prioriza un mensaje claro sobre el monitoreo en tiempo real y se utiliza un llamado 
+a la acción visible acompañado de elementos visuales relacionados al almacenamiento farmacéutico.
+
+<img src="../assets/navMU.png" alt="Landing Page Mock Up" style="max-width: 100%; height: auto;">
+
+**Tecnología (How It Works)**
+
+El mockup de esta sección muestra de forma visual el funcionamiento del sistema y la integración con sensores
+IoT. Se utilizan íconos, tarjetas informativas y una estructura clara para facilitar la comprensión del flujo 
+de monitoreo y procesamiento de datos.
+
+<img src="../assets/tecMU.png" alt="Landing Page Mock Up" style="max-width: 100%; height: auto;">
+
+
+**Beneficios del sistema**
+
+Esta sección resalta los beneficios principales mediante elementos visuales organizados y fáciles de identificar.
+El diseño enfatiza conceptos como monitoreo continuo, alertas automáticas y trazabilidad de información.
+
+<img src="../assets/sobrePlataformaMU.png" alt="Landing Page Mock Up" style="max-width: 100%; height: auto;">
+
+<img src="../assets/comoFuncionaMU.png" alt="Landing Page Mock Up" style="max-width: 100%; height: auto;">
+
+
+**Sectores (Aplicación del sistema)**
+
+El diseño presenta los diferentes entornos donde MediTrack Sensor puede ser implementado, utilizando imágenes y 
+bloques visuales que ayudan a identificar rápidamente cada sector objetivo.
+
+<img src="../assets/paraQuienMU.png" alt="Landing Page Mock Up" style="max-width: 100%; height: auto;">
+
+
+**Sobre el Equipo (Nosotros)**
+
+Esta sección utiliza un diseño cercano y profesional para presentar a los integrantes del equipo. Se busca 
+transmitir confianza y compromiso mediante fotografías y descripciones breves.
+
+<img src="../assets/quienesSomosMU.png" alt="Landing Page Mock Up" style="max-width: 100%; height: auto;">
+
+
+**Planes (Pricing)**
+
+El mockup de planes organiza la información de manera clara y visualmente diferenciada, permitiendo comparar 
+características y funcionalidades entre las distintas opciones de suscripción.
+
+<img src="../assets/planesPagosMU.png" alt="Landing Page Mock Up" style="max-width: 100%; height: auto;">
+
+
+**Contacto**
+
+La sección de contacto presenta un diseño accesible y ordenado que facilita la comunicación entre los usuarios 
+y el equipo de MediTrack Sensor, manteniendo coherencia visual con el resto de la plataforma.
+
+<img src="../assets/contactoMU.png" alt="Landing Page Mock Up" style="max-width: 100%; height: auto;">
+
+
+**Footer**
+
+El footer mantiene una estructura limpia y funcional, integrando accesos rápidos a información relevante, 
+enlaces de soporte y elementos de identidad institucional.
+
+<img src="../assets/footerMU.png" alt="Landing Page Mock Up" style="max-width: 100%; height: auto;">
+
 
 ---
 
