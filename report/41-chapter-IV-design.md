@@ -328,7 +328,7 @@ acceden a datos históricos, analizan tendencias y apoyan la toma de decisiones.
 
 ### 4.7.1. Class Diagrams
 
-<img src="assets/Meditrack - class diagram.png"/>
+<img src="assets/Meditrack - class diagram.jpg"/>
 
 ---
 
@@ -336,4 +336,4 @@ acceden a datos históricos, analizan tendencias y apoyan la toma de decisiones.
 
 ### 4.8.1. Database Diagrams
 
-<img src="assets/Meditrack - class diagram.jpg" alt="Meditack-datababase-diagram"/>
+<img src="assets/Meditrack - database_diagram.png" alt="Meditack-datababase-diagram"/>
