@@ -12,6 +12,66 @@
 
 ### 4.2.1. Organization Systems
 
+En la plataforma MediTrack Sensor, se emplean distintos sistemas de organización de contenido con el objetivo
+de optimizar la supervisión y gestión de las condiciones ambientales en almacenes farmacéuticos. Estos sistemas permiten estructurar la información de manera clara y accesible, facilitando el monitoreo en tiempo real y la toma de decisiones tanto para el personal operativo como para las entidades de salud. A continuación, se describen los enfoques utilizados:
+
+#### Organización Visual del Contenido
+
+**Jerárquica (Visual Hierarchy):**
+
+La organización jerárquica se aplica en dashboards, paneles de monitoreo y módulos de alertas, priorizando
+visualmente información crítica como variaciones de temperatura, humedad y exposición a la luz. Elementos como alertas activas, indicadores de riesgo y estados de sensores destacan mediante el uso de colores, tamaños y distribución visual, permitiendo que los usuarios identifiquen rápidamente situaciones que requieren atención inmediata.
+
+**Secuencial (Step-by-Step to Accomplish):**
+
+En procesos como el registro de sensores, configuración de almacenes o gestión de alertas, la plataforma 
+utiliza una estructura secuencial que guía al usuario paso a paso. Esto facilita la correcta configuración del sistema y reduce errores durante procesos operativos importantes.
+
+Esquemas de Categorización de Contenido
+
+**Por Audiencia (Roles de Usuario):**
+
+MediTrack Sensor distingue principalmente entre dos tipos de usuarios: personal operativo de almacenes
+farmacéuticos y entidades de salud o gestores farmacéuticos.
+
+El personal operativo accede a funcionalidades enfocadas en el monitoreo en tiempo real, visualización de 
+condiciones ambientales, recepción de alertas y registro de incidencias.
+Las entidades de salud y gestores farmacéuticos cuentan con herramientas orientadas a la supervisión c
+entralizada, análisis de datos históricos, generación de reportes y control de múltiples sedes o almacenes.
+
+La interfaz adapta la navegación y funcionalidades según el rol del usuario, mostrando únicamente las h
+erramientas relevantes para cada segmento y mejorando la experiencia de uso.
+
+**Por Tópicos:**
+
+El contenido de la plataforma también se organiza en categorías funcionales que facilitan la navegación y 
+localización de información. Entre las principales categorías se encuentran:
+
+- Monitoreo ambiental
+- Gestión de sensores
+- Alertas e incidencias
+- Reportes e historial de datos
+- Gestión de almacenes y sedes
+- Configuración y soporte
+
+Esta organización permite que los usuarios encuentren rápidamente la información o funcionalidad requerida 
+dentro del sistema.
+
+**Implementación en la Interfaz**
+
+La organización jerárquica y secuencial se refleja en dashboards estructurados, formularios progresivos y 
+paneles de monitoreo donde la información crítica se presenta de manera priorizada y comprensible.
+
+Por otro lado, la categorización por audiencia y tópicos se implementa mediante menús de navegación 
+diferenciados, vistas adaptadas según el tipo de usuario y módulos organizados por funcionalidades 
+específicas. El uso de tarjetas, gráficos, tablas y estados visuales facilita la interpretación rápida de 
+las condiciones ambientales y eventos registrados por el sistema.
+
+Este enfoque permite que MediTrack Sensor ofrezca una experiencia intuitiva, organizada y alineada con 
+las necesidades operativas del sector salud, facilitando el monitoreo eficiente y la gestión centralizada
+de medicamentos.
+
+
 ### 4.2.2. Labeling Systems
 
 ### 4.2.3. SEO Tags and Meta Tags
