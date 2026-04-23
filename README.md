@@ -41,10 +41,20 @@
 
 # Registro de Versiones del Informe
 
-| Versión | Fecha | Autor        | Descripción de modificación |
-|---------|-------|--------------|-----------------------------|
-| 1.0 | 04/04/2026 | Rioja Nuñez, Franco Diego | Creación del reporte en formato Markdown. |
+# Registro de Versiones del Informe
 
+| Versión | Fecha      | Autor(es) | Descripción de cambios |
+| :--- |:-----------| :--- | :--- |
+| 1.00 | 04/04/2026 | Rioja Nuñez, Franco Diego | Creación del reporte en formato Markdown y estructura base. |
+| 1.01 | 06/04/2026 | Tufiño Argüelles, Luis Angel | Definición del Startup Profile y planteamiento de la problemática del sector salud. |
+| 1.02 | 08/04/2026 | Urviola Condori, Mateo Sebastián | Elaboración del Needfinding: User Personas, Journey Maps y análisis de entrevistas. |
+| 1.03 | 10/04/2026 | Rioja Nuñez, Franco Diego | Configuración del repositorio en GitHub y definición de la metodología de trabajo. |
+| 1.04 | 11/04/2026 | Herrera Enriquez, Diego Fernando | Especificación de requerimientos de software y diseño de las User Stories iniciales. |
+| 1.05 | 12/04/2026 | Rioja Nuñez, Franco Diego | Diseño de prototipos de alta fidelidad en Figma y arquitectura visual de la marca. |
+| 1.06 | 15/04/2026 | Mallqui Vilca, Dhilsen Armil | Desarrollo de la estructura base de la Landing Page utilizando HTML5 y CSS3. |
+| 1.07 | 19/04/2026 | Mallqui Vilca, Dhilsen Armil | Implementación de estilos responsivos y despliegue continuo (CD) en la plataforma Vercel. |
+| 1.08 | 23/04/2026 | Rioja Nuñez, Franco Diego | Redacción de la documentación técnica del despliegue y evidencias de colaboración. |
+| 1.09 | 24/04/2026 | Rioja Nuñez, Franco Diego | Cierre del AV1. |
 ---
 
 # Project Report Collaboration Insights
