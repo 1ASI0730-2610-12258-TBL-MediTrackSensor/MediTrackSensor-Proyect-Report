@@ -941,6 +941,16 @@ dedicados a ambos sectores objetivos.
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+A continuación, se muestra el User Flow Diagram estructurado en base a los objetivos 
+principales del usuario. Cada sección del flujo corresponde a una meta funcional
+específica, mostrando los recorridos posibles mediante mockups de alta fidelidad.
+
+<img src="./../assets/userFlowEditarPerfilEntidades.png" alt="User Flow" width="700">
+<img src="./../assets/userFlowEditarPerfilPersonal.png" alt="User Flow" width="700">
+<img src="./../assets/userFlowLoginEntidades.png" alt="User Flow" width="700">
+<img src="./../assets/userFlowLoginPersonal.png" alt="User Flow" width="700">
+
+
 ---
 
 ## 4.5. Web Applications Prototyping
