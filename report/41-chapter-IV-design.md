@@ -898,6 +898,47 @@ acceden a datos históricos, analizan tendencias y apoyan la toma de decisiones.
 
 ### 4.4.3. Web Applications Mock-ups
 
+Esta sección presenta los mockups de la aplicación web de MediTrack Sensor, diseñados para 
+ofrecer una experiencia visual coherente con la identidad gráfica del producto y adaptada a 
+las necesidades de los usuarios. Los mockups reflejan la estructura, paleta de colores y estilo 
+visual definidos en la Landing Page, asegurando una transición fluida entre ambos entornos
+dedicados a ambos sectores objetivos.
+
+<img src="./../assets/cancelarPlan.png" alt="Mockups" width="700">
+<img src="./../assets/confirmarCancelar.png" alt="Mockups" width="700">
+<img src="./../assets/entidadDeviceInfo.png" alt="Mockups" width="700">
+<img src="./../assets/entidadEditProfile.png" alt="Mockups" width="700">
+<img src="./../assets/entidadesAddEstablishment.png" alt="Mockups" width="700">
+<img src="./../assets/entidadesAssistingOperator.png" alt="Mockups" width="700">
+<img src="./../assets/entidadesEstablisments.png" alt="Mockups" width="700">
+<img src="./../assets/entidadesLogin.png" alt="Mockups" width="700">
+<img src="./../assets/entidadesSignIn.png" alt="Mockups" width="700">
+<img src="./../assets/entidadEstablishmentInfo.png" alt="Mockups" width="700">
+<img src="./../assets/entidadEstablishmentOperatorAdvices.png" alt="Mockups" width="700">
+<img src="./../assets/entidadHome.png" alt="Mockups" width="700">
+<img src="./../assets/entidadMap.png" alt="Mockups" width="700">
+<img src="./../assets/entidadOperatorInfo.png" alt="Mockups" width="700">
+<img src="./../assets/entidadProfileBasic.png" alt="Mockups" width="700">
+<img src="./../assets/entidadProfilePremiun.png" alt="Mockups" width="700">
+<img src="./../assets/login.png" alt="Mockups" width="700">
+<img src="./../assets/pagarPlan.png" alt="Mockups" width="700">
+<img src="./../assets/personalAddDevice.png" alt="Mockups" width="700">
+<img src="./../assets/personalAddTransport.png" alt="Mockups" width="700">
+<img src="./../assets/personalEditProfile.png" alt="Mockups" width="700">
+<img src="./../assets/personalEditProfile.png" alt="Mockups" width="700">
+<img src="./../assets/personalHome.png" alt="Mockups" width="700">
+<img src="./../assets/personalListDevices.png" alt="Mockups" width="700">
+<img src="./../assets/personalNoStablishment.png" alt="Mockups" width="700">
+<img src="./../assets/personalOLogin.png" alt="Mockups" width="700">
+<img src="./../assets/personalOperatorInfo.png" alt="Mockups" width="700">
+<img src="./../assets/personalOSignin.png" alt="Mockups" width="700">
+<img src="./../assets/personalProfile.png" alt="Mockups" width="700">
+<img src="./../assets/personalViewDevice.png" alt="Mockups" width="700">
+<img src="./../assets/personalViewsTransport.png" alt="Mockups" width="700">
+<img src="./../assets/personalViewTransports.png" alt="Mockups" width="700">
+<img src="./../assets/planes.png" alt="Mockups" width="700">
+
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ---
