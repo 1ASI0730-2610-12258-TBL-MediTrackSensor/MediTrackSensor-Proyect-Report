@@ -253,6 +253,92 @@ Dayana Quispe, de 25 años y residente en La Molina, realiza prácticas farmacé
 
 ### 2.2.3. Análisis de entrevistas
 
+### Segmento 01: Personal Operativo
+
+* **Nombre:** Luis Mendoza
+* **Edad:** 36
+* **Distrito:** Ate
+* **Ocupación:** Técnico en farmacia en hospital público
+* **Browser:** Google Chrome
+* **Device:** Computadora y celular
+
+**Resumen:** Luis trabaja en el área de almacén de medicamentos de un hospital público desde hace 7 años. Actualmente realiza el control de temperatura y humedad de manera manual, registrando datos en cuadernos y ocasionalmente en Excel. El proceso es limitado, con registros solo dos o tres veces al día, lo que genera riesgos de no detectar variaciones críticas a tiempo. Ha enfrentado pérdidas de medicamentos por fallas en refrigeración y considera frustrante el sistema manual. Se siente cómodo con herramientas básicas y cree que una solución digital con alertas automáticas mejoraría significativamente la gestión, aunque en hospitales públicos el presupuesto es un factor clave.
+
+---
+
+* **Nombre:** Jorge Pérez
+* **Edad:** 34
+* **Distrito:** San Juan de Lurigancho
+* **Ocupación:** Técnico de almacén en clínica privada
+* **Browser:** Google Chrome
+* **Device:** Celular y computadora
+
+**Resumen:** Jorge trabaja en una clínica privada en Miraflores y lleva 6 años en el área de almacenamiento farmacéutico. El control ambiental se realiza manualmente con termómetros y higrómetros básicos, registrando datos en cuadernos dos veces al día. Ha experimentado pérdidas de medicamentos por variaciones no detectadas durante fines de semana. El proceso manual resulta tedioso y poco confiable, especialmente en auditorías. Jorge utiliza principalmente su celular y considera que una herramienta digital con alertas automáticas sería un cambio positivo, ya que permitiría actuar de inmediato. Cree que su institución estaría dispuesta a pagar por una solución si el costo es razonable.
+
+### Segmento 02: Jefaturas y Supervisión
+
+* **Nombre:** Omar Ruiz
+* **Edad:** 47
+* **Distrito:** Surco
+* **Ocupación:** Químico farmacéutica y jefe de farmacia en hospital público
+* **Browser:** Google Chrome
+* **Device:** Computadora y celular
+
+**Resumen:** Ruiz supervisa tres almacenes en un hospital público y depende de reportes manuales entregados por encargados de cada área. El proceso es lento y poco confiable, dificultando la visibilidad en tiempo real. Ha enfrentado problemas de incumplimiento normativo por registros incompletos y reconoce la importancia de contar con datos históricos para auditorías. Considera indispensable una solución con alertas en tiempo real, preferiblemente accesible desde el celular. Aunque hay apertura a nuevas tecnologías, los procesos de adquisición en el sector público son lentos y el presupuesto limitado. Una solución económica y en español tendría mayor viabilidad.
+
+---
+
+* **Nombre:** Luis Mendoza
+* **Edad:** 36
+* **Distrito:** Ate
+* **Ocupación:** Técnico en farmacia en hospital público
+* **Browser:** Google Chrome
+* **Device:** Computadora y celular
+
+**Resumen:** Este entrevistado describe un sistema de control ambiental manual en hospitales públicos, con registros en cuadernos y ocasionalmente en Excel. La frecuencia de registro es limitada y no permite detectar variaciones críticas fuera de horario. Ha enfrentado pérdidas de medicamentos sensibles como vacunas debido a fallas en refrigeración. Considera frustrante el proceso manual y reconoce la necesidad de una solución digital con alertas automáticas. Aunque está dispuesto a aprender nuevas tecnologías, la adopción depende del presupuesto y aprobación administrativa en instituciones públicas.
+
+### 2.2.3. Análisis de entrevistas
+### Segmento 01: Personal operativo de almacenes farmacéuticos
+**(Entrevistados: Luis Mendoza – hospital público, Jorge Pérez – clínica privada)**
+
+#### Características objetivas:
+* **Registro manual de condiciones ambientales:** 100% realizan control con termómetros/higrómetros y anotaciones en cuadernos o Excel.
+* **Frecuencia de registro limitada:** 100% registran entre 2–3 veces al día, sin monitoreo continuo.
+* **Uso de dispositivos:** 100% utilizan computadora y celular en su trabajo.
+* **Browser más usado:** 100% mencionan Google Chrome.
+* **Experiencia laboral:** Ambos tienen más de 6 años en el área (100%).
+
+#### Características subjetivas:
+* **Frustración con el proceso manual:** 100% lo consideran tedioso, repetitivo y propenso a errores.
+* **Casos de pérdida de medicamentos por fallas ambientales:** 100% han experimentado deterioro de lotes por variaciones no detectadas.
+* **Valoración de alertas automáticas:** 100% consideran que una solución digital con notificaciones inmediatas sería una mejora significativa.
+* **Disposición a aprender nuevas tecnologías:** 100% están abiertos a capacitación si la herramienta es sencilla.
+* **Disposición institucional a pagar por soluciones:** 100% creen que sus instituciones estarían interesadas, siempre que el costo sea razonable.
+
+> **Conclusión del segmento:** > El personal operativo se caracteriza por depender de procesos manuales, con registros limitados y alta exposición a errores. Existe frustración generalizada y experiencias negativas por pérdidas de medicamentos. Valoran la simplicidad tecnológica y muestran apertura a soluciones digitales, siempre que sean fáciles de usar y económicamente viables. Este segmento representa usuarios que necesitan automatización básica, alertas inmediatas y facilidad de uso.
+
+---
+
+### Segmento 02: Gestores y responsables de farmacia en instituciones de salud
+**(Entrevistado: Omar Ruiz – hospital público)**
+
+#### Características objetivas:
+* **Supervisión de múltiples almacenes:** 100% supervisa más de un almacén (tres en total).
+* **Registro manual delegado:** 100% depende de reportes en papel entregados por personal operativo.
+* **Uso de dispositivos:** 100% prefiere computadora para reportes y celular para consultas rápidas.
+* **Browser más usado:** 100% utiliza Google Chrome.
+* **Experiencia profesional:** Más de 20 años en el área farmacéutica (deducido por edad y cargo).
+
+#### Características subjetivas:
+* **Dificultad de visibilidad en tiempo real:** 100% señala que depende de reportes manuales y carece de monitoreo simultáneo.
+* **Problemas de incumplimiento normativo:** 100% ha enfrentado observaciones por registros incompletos.
+* **Importancia de datos históricos:** 100% considera fundamental contar con historial para auditorías y evitar sanciones.
+* **Evaluación de soluciones tecnológicas previas:** 100% probó una solución importada, pero el costo y el idioma fueron barreras.
+* **Obstáculos institucionales:** 100% identifica presupuesto limitado y procesos administrativos lentos como principales trabas.
+* **Funcionalidad indispensable:** 100% prioriza alertas en tiempo real accesibles desde celular.
+* **Viabilidad económica:** 100% considera que un costo mensual entre 100–200 soles sería aceptable si se justifica.
+
+> **Conclusión del segmento:** > Los gestores farmacéuticos enfrentan el reto de supervisar múltiples almacenes con procesos manuales poco confiables. La visibilidad en tiempo real y los datos históricos son críticos para cumplir normativas y evitar sanciones. Valoran soluciones digitales que ofrezcan alertas inmediatas, reportes históricos y accesibilidad móvil, pero enfrentan barreras de presupuesto y burocracia. Este segmento representa usuarios que necesitan control centralizado, cumplimiento normativo y justificación de costo-beneficio.
 
 
 ## 2.3. Needfinding
