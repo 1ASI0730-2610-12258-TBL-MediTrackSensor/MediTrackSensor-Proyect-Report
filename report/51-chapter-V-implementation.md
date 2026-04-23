@@ -52,6 +52,70 @@ del trabajo a los actuales y futuros desarrolladores, asegurando una colaboraci�
 
 ### 5.1.2. Source Code Management
 
+En esta sección se establece el medio y esquema de organización
+que el equipo aplicará para el seguimiento y control de
+modificaciones en el código fuente. Para ello se utiliza
+**GitHub** como plataforma de control de versiones, organizado
+bajo la organización pública **1ASI0730-2610-12258-TBL-MediTrackSensor**.
+
+Se aplica **GitFlow** como workflow de control de versiones,
+**Conventional Commits** para los mensajes de commit y
+**Semantic Versioning** para el nombramiento de releases.
+
+A continuación se presentan los repositorios correspondientes
+a cada producto de la solución:
+
+| Producto                 | Repositorio                                                                                   |
+|--------------------------|-----------------------------------------------------------------------------------------------|
+| Project Report           | https://github.com/1ASI0730-2610-12258-TBL-MediTrackSensor/MediTrackSensor-Proyect-Report.git |
+| Landing Page             | https://github.com/1ASI0730-2610-12258-TBL-MediTrackSensor/MediTrackSensor-Landing-Page.git   |
+| Frontend Web Application | https://github.com/1ASI0730-2610-12258-TBL-MediTrackSensor/MediTrackSensor-Frontend.git       |
+| Web Services             | https://github.com/1ASI0730-2610-12258-TBL-MediTrackSensor/MediTrackSensor-Backend.git        |
+
+### GitFlow Workflow
+
+El equipo implementa GitFlow como workflow de control de versiones.
+Las ramas definidas son las siguientes:
+
+**Ramas principales:**
+- `main` — rama principal que contiene la versión estable y desplegada
+  del producto. Solo se actualiza mediante merges de ramas release.
+- `develop` — rama de integración donde se consolidan las features
+  completadas antes de pasar a producción.
+
+**Ramas de soporte:**
+- `feature/<nombre>` — una rama por cada funcionalidad o sección
+  en desarrollo. Se crean desde `develop` y se fusionan de vuelta a `develop`
+  al completarse.
+- `release/<version>` — se crean desde `develop` cuando se prepara
+  una entrega. Se fusionan a `main` y `develop` al finalizarse.
+
+**Convenciones de nomenclatura para ramas:**
+
+| Tipo | Convención | Ejemplo |
+|------|-----------|---------|
+| Feature | `feature/<nombre-descriptivo>` | `feature/login-view` |
+| Release | `release/<version>` | `release/1.0.0` |
+
+### Conventional Commits
+
+Los mensajes de commit siguen la especificación de Conventional Commits
+con la siguiente estructura:
+
+`<type>(<scope>): <description>`
+
+Los tipos permitidos son:
+
+| Tipo | Uso |
+|------|-----|
+| `feat` | Nueva funcionalidad |
+| `fix` | Corrección de errores |
+| `docs` | Cambios en documentación |
+| `style` | Cambios de formato sin afectar lógica |
+| `refactor` | Refactorización de código |
+| `test` | Añadir o modificar pruebas |
+| `chore` | Tareas de mantenimiento |
+
 ### 5.1.3. Source Code Style Guide & Conventions
 
 ### 5.1.4. Software Deployment Configuration
