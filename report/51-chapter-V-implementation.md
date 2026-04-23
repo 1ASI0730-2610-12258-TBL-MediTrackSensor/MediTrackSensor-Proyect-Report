@@ -150,6 +150,26 @@ realizado para el Sprint 1.
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
+En esta sección se detalla la matriz de liderazgo y colaboración (LACX) para el Sprint 1. Cada aspecto representa una fase crítica de la entrega, donde se designa un líder (L) responsable de la dirección del entregable y colaboradores (C) que apoyaron en su ejecución, cumpliendo con el objetivo de proporcionar liderazgo conjunto y un entorno colaborativo (ABET Student Outcome 5).
+
+| Team Member (Last Name, First Name) | GitHub Username | Idea de Negocio y Bases | Diseño de App Web (Figma) | Contenido y Despliegue Landing | User Stories y Funciones | Análisis de Usuario y Needfinding |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
+| Tufiño Argüelles, Luis Angel | LuisTufino2 | **L** | C | C | C | C |
+| Rioja Nuñez, Franco Diego | FrancoDiegoR | C | **L** | C | C | C |
+| Mallqui Vilca, Dhilsen Armil | Dhilsen18 | C | C | **L** | C | C |
+| Herrera Enriquez, Diego Fernando | DerDFHE | C | C | C | **L** | C |
+| Urviola Condori, Mateo Sebastián | BeyaminUv | C | C | C | C | **L** |
+
+---
+
+**Sustento de los Aspectos de Liderazgo:**
+
+* **Luis Tufiño (Idea de Negocio y Bases):** Proporcionó liderazgo en la fase de concepción, estableciendo la visión estratégica de MediTrack Sensor y definiendo el modelo de negocio inicial que guía el proyecto.
+* **Franco Rioja (Diseño de App Web):** Lideró la arquitectura visual y experiencia de usuario del software, siendo responsable de los prototipos de alta fidelidad en Figma para la plataforma web.
+* **Dhilsen Mallqui (Contenido y Despliegue Landing):** Responsable de la presencia web del producto, liderando la implementación técnica y el despliegue de la Landing Page en Vercel para la comunicación con los interesados.
+* **Diego Herrera (User Stories y Funciones):** Lideró la traducción de necesidades en requerimientos técnicos, definiendo las historias de usuario y el alcance funcional de la aplicación.
+* **Mateo Urviola (Análisis de Usuario):** Lideró el proceso de investigación empática, dirigiendo la creación de User Personas, Empathy Maps y el análisis de los procesos actuales de los usuarios en su entorno laboral.
+
 #### 5.2.1.3. Sprint Backlog 1
 
 #### 5.2.1.4. Development Evidence for Sprint Review
