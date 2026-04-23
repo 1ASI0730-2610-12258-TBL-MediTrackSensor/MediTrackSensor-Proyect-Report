@@ -405,3 +405,38 @@ User Persona 2
 ## 2.4. Big Picture EventStorming
 
 ## 2.5. Ubiquitous Language
+Este glosario define los términos fundamentales que deben ser utilizados de forma
+consistente por el equipo de desarrollo, expertos del dominio y en el código fuente.
+
+## 1. Monitoring Core (Núcleo de Monitoreo)
+Contexto encargado de la captura y procesamiento de señales ambientales.
+
+- **Sensor**: Dispositivo físico o virtual encargado de medir las variables ambientales.
+- **Reading (Lectura)**: El valor puntual de una variable (temperatura, humedad) capturado en un momento específico.
+- **Environmental Condition (Condición Ambiental)**: Estado del entorno en un área monitoreada en un momento dado.
+- **Sampling Interval (Intervalo de Muestreo)**: Frecuencia configurada con la que el Sensor reporta lecturas.
+- **Threshold (Umbral)**: Rango de valores (mínimo/máximo) aceptables para una variable ambiental.
+
+## 2. Conservation & Quality (Conservación y Calidad)
+Lógica de negocio aplicada al resguardo de productos farmacéuticos.
+
+- **Storage Point (Punto de Almacenamiento)**: Ubicación física sujeta a supervisión (ej. refrigerador, almacén, contenedor).
+- **Cold Chain (Cadena de Frío)**: Proceso ininterrumpido de almacenamiento y distribución a temperaturas controladas.
+- **Temperature Excursion (Excursión de Temperatura)**: Evento donde un medicamento se expone a valores fuera de su rango de seguridad.
+- **Batch (Lote)**: Grupo de medicamentos con características de fabricación idénticas que se monitorean como una unidad.
+- **Traceability (Trazabilidad)**: Historial completo de las condiciones ambientales a las que ha estado expuesto un producto.
+
+## 3. Alerts & Remediation (Alertas y Remediación)
+Gestión de desviaciones y respuestas ante emergencias.
+
+- **Incident (Incidencia)**: Registro automático creado cuando una Reading rompe un Threshold.
+- **Alert (Alerta)**: Notificación enviada a los responsables tras la detección de una Incidencia.
+- **Escalation (Escalado)**: Mecanismo para elevar una Alerta a un nivel superior si no es atendida.
+- **Action Plan (Plan de Acción)**: Protocolo de respuesta para corregir una desviación ambiental y salvar el inventario.
+
+## 4. Organization & Actors (Organización y Actores)
+Estructura de entidades que operan en la plataforma.
+
+- **Healthcare Entity (Entidad de Salud)**: Organización cliente (clínica, farmacia, hospital).
+- **Distribution Hub (Centro de Distribución)**: Nodo logístico de alta rotación de medicamentos.
+- **Custodian (Custodio)**: Usuario responsable directo de la supervisión de un Punto de Almacenamiento.
