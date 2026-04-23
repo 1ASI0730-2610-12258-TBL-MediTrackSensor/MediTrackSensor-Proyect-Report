@@ -260,6 +260,106 @@ Los usuarios pueden aplicar, combinar o eliminar filtros fácilmente, permitiend
 
 ### 4.2.5. Navigation Systems
 
+En MediTrack Sensor, la navegación ha sido diseñada para ser clara, intuitiva y eficiente tanto en la Landing 
+Page como en la Web Application. La estructura de navegación busca facilitar el acceso rápido a información 
+crítica relacionada con el monitoreo ambiental de medicamentos, reduciendo la complejidad operativa y mejorando
+la experiencia de uso para los distintos segmentos del sistema. Porque si alguien tiene que encontrar una alerta
+crítica escondida entre veinte menús desplegables, el verdadero peligro ya no es la humedad. Es el diseñador.
+
+#### Navegación en la Landing Page
+
+La Landing Page guía a los visitantes a través de la propuesta de valor de MediTrack Sensor, permitiéndoles 
+comprender rápidamente el problema, la solución tecnológica y los beneficios del sistema.
+
+**Elementos de navegación**
+
+**Menú de navegación superior**
+
+Incluye accesos directos a las principales secciones de la página:
+
+- Inicio
+- Tecnología
+- Beneficios
+- Sectores
+- Nosotros
+- Planes
+- Contacto
+
+**Llamadas a la acción (CTAs)**
+
+Se implementan botones visibles orientados a incentivar la interacción del usuario, tales como:
+
+- “Solicitar información”
+- “Conocer más”
+- “Ver planes”
+
+**Desplazamiento fluido**
+
+La navegación entre secciones se realiza mediante desplazamiento continuo dentro de la misma página, 
+permitiendo una experiencia fluida y evitando interrupciones innecesarias durante la exploración del contenido.
+
+#### Navegación en la Web Application
+
+La navegación dentro de la aplicación web se adapta según las necesidades de los dos segmentos principales 
+de usuarios: personal operativo de almacenes farmacéuticos y entidades de salud o gestores farmacéuticos.
+
+**Para personal operativo de almacenes farmacéuticos**
+
+**Menú lateral fijo con opciones principales**
+
+- Dashboard
+- Monitoreo en tiempo real
+- Alertas
+- Historial de registros
+- Reportes
+- Configuración
+
+**Accesos rápidos**
+
+Se incorporan botones de acceso inmediato para acciones frecuentes como:
+
+- Revisar alertas críticas
+- Visualizar condiciones actuales
+- Consultar historial reciente
+
+**Para entidades de salud y gestores farmacéuticos**
+
+**Menú lateral de supervisión centralizada**
+
+- Dashboard general
+- Gestión de sedes
+- Reportes históricos
+- Alertas globales
+- Usuarios
+- Configuración institucional
+
+**Navegación entre sedes**
+
+El sistema permite alternar rápidamente entre diferentes almacenes o sedes monitoreadas mediante filtros y 
+paneles de selección.
+
+**Visualización centralizada**
+
+Las entidades pueden acceder a vistas generales que resumen el estado ambiental de múltiples almacenes en 
+tiempo real, facilitando la supervisión integral.
+
+#### Interacción con el sistema
+
+**Accesibilidad**
+
+La navegación utiliza etiquetas claras, iconografía comprensible y estructuras visuales organizadas para 
+facilitar el uso de la plataforma por distintos perfiles de usuario.
+
+**Navegación de búsqueda**
+
+Se integran filtros rápidos y barras de búsqueda para localizar sedes, alertas, registros o reportes 
+específicos de manera eficiente.
+
+**Ayuda y soporte**
+
+La plataforma incorpora secciones de asistencia y orientación para apoyar al usuario en la comprensión de
+las funcionalidades principales del sistema y reducir la dificultad de adopción tecnológica. 
+
 ---
 
 ## 4.3. Landing Page UI Design
