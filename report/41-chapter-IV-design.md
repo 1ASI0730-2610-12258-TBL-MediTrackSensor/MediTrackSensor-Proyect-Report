@@ -6,36 +6,79 @@ En este apartado, se mostrará de manera organizada los estilos y herramientas q
 
 ### 4.1.1. General Style Guidelines
 
-Brand Overview
-En la industria farmacéutica y de salud, el almacenamiento inadecuado de medicamentos representa un riesgo crítico para la salud pública y grandes pérdidas económicas. Actualmente, muchas organizaciones dependen de procesos manuales de registro de temperatura y humedad que son propensos a errores humanos, carecen de alertas en tiempo real y dificultan el cumplimiento de las estrictas normativas de trazabilidad. Esta falta de visibilidad impide una respuesta rápida ante fallas en la cadena de frío, poniendo en duda la eficacia de productos sensibles.
+<div style="border-left: 5px solid #F37021; padding: 14px 16px; border-radius: 8px; background: rgba(243,112,33,0.08); margin: 10px 0 14px 0;">
+  <strong style="font-size: 1.05rem;">Brand Overview</strong>
+  <p style="margin: 10px 0 8px 0;">
+    En la industria farmacéutica y de salud, el almacenamiento inadecuado de medicamentos representa un riesgo crítico para la salud pública y grandes pérdidas económicas. Actualmente, muchas organizaciones dependen de procesos manuales de registro de temperatura y humedad que son propensos a errores humanos, carecen de alertas en tiempo real y dificultan el cumplimiento de las estrictas normativas de trazabilidad. Esta falta de visibilidad impide una respuesta rápida ante fallas en la cadena de frío, poniendo en duda la eficacia de productos sensibles.
+  </p>
+  <p style="margin: 0;">
+    MediTrack Sensor nace como una solución tecnológica avanzada de IoT diseñada para garantizar la integridad de los activos farmacéuticos. Nuestra plataforma integra sensores de alta precisión con un sistema de monitoreo inteligente que permite la supervisión constante de las condiciones ambientales. Con alertas automatizadas, análisis de datos en tiempo real y reportes de cumplimiento digitalizados, MediTrack Sensor transforma la gestión de almacenes en un proceso preventivo, seguro y transparente. De esta manera, no solo protegemos la calidad de los medicamentos, sino que optimizamos la eficiencia operativa y aseguramos el cumplimiento de los estándares internacionales de salud.
+  </p>
+</div>
 
-MediTrack Sensor nace como una solución tecnológica avanzada de IoT diseñada para garantizar la integridad de los activos farmacéuticos. Nuestra plataforma integra sensores de alta precisión con un sistema de monitoreo inteligente que permite la supervisión constante de las condiciones ambientales. Con alertas automatizadas, análisis de datos en tiempo real y reportes de cumplimiento digitalizados, MediTrack Sensor transforma la gestión de almacenes en un proceso preventivo, seguro y transparente. De esta manera, no solo protegemos la calidad de los medicamentos, sino que optimizamos la eficiencia operativa y aseguramos el cumplimiento de los estándares internacionales de salud.
+<div style="border-left: 5px solid #112433; padding: 14px 16px; border-radius: 8px; background: rgba(17,36,51,0.08); margin: 10px 0 12px 0;">
+  <strong style="font-size: 1.05rem;">Brand Name</strong>
+  <p style="margin: 10px 0 0 0;">El nombre de nuestra solución, MediTrack Sensor, sintetiza su propósito técnico y funcional:</p>
+</div>
 
-Brand Name
-El nombre de nuestra solución, MediTrack Sensor, sintetiza su propósito técnico y funcional:
+<table>
+  <tr>
+    <th>Componente</th>
+    <th>Significado</th>
+  </tr>
+  <tr>
+    <td><strong>Medi</strong></td>
+    <td>Establece una conexión directa con el sector médico y farmacéutico, delimitando claramente el mercado objetivo.</td>
+  </tr>
+  <tr>
+    <td><strong>Track</strong></td>
+    <td>Refleja la capacidad central del sistema para realizar un seguimiento, rastreo y monitoreo continuo de las variables críticas.</td>
+  </tr>
+  <tr>
+    <td><strong>Sensor</strong></td>
+    <td>Enfatiza el componente tecnológico y de hardware que permite la recolección de datos precisos en el entorno físico.</td>
+  </tr>
+</table>
 
-“Medi”: Establece una conexión directa con el sector médico y farmacéutico, delimitando claramente el mercado objetivo.
-
-“Track”: Refleja la capacidad central del sistema para realizar un seguimiento, rastreo y monitoreo continuo de las variables críticas.
-
-“Sensor”: Enfatiza el componente tecnológico y de hardware que permite la recolección de datos precisos en el entorno físico.
-
-Hemos elegido un nombre en inglés con una estructura clara y profesional para proyectar una imagen de innovación tecnológica y escalabilidad global, facilitando su posicionamiento como una herramienta de alta ingeniería dentro de entornos corporativos y regulatorios de salud.
+<p style="margin-top: 10px;">
+  Hemos elegido un nombre en inglés con una estructura clara y profesional para proyectar una imagen de innovación tecnológica y escalabilidad global, facilitando su posicionamiento como una herramienta de alta ingeniería dentro de entornos corporativos y regulatorios de salud.
+</p>
 
 Logo:
 <img src="../assets/Logo-MediTrack.png"/>
 
-Typography Analysis
-En MediTrack Sensor, la tipografía es un pilar fundamental para proyectar una identidad de alta precisión, innovación tecnológica y seguridad farmacéutica. A diferencia de esquemas tradicionales, hemos optado por una tipografía única versátil que cohesiona toda la experiencia visual:
+<div style="border-left: 5px solid #3B82F6; padding: 14px 16px; border-radius: 8px; background: rgba(59,130,246,0.08); margin: 12px 0 14px 0;">
+  <strong style="font-size: 1.05rem;">Typography Analysis</strong>
+  <p style="margin: 10px 0 0 0;">
+    En MediTrack Sensor, la tipografía es un pilar fundamental para proyectar una identidad de alta precisión, innovación tecnológica y seguridad farmacéutica. A diferencia de esquemas tradicionales, hemos optado por una tipografía única versátil que cohesiona toda la experiencia visual.
+  </p>
+</div>
 
-Outfit: Es la fuente principal declarada en tu proyecto. Se trata de una tipografía geométrica inspirada en el diseño de interfaces modernas y productos tecnológicos. Su estructura limpia y minimalista comunica la eficiencia y exactitud necesarias en un entorno de monitoreo IoT médico.
+<table>
+  <tr>
+    <th>Elemento Tipográfico</th>
+    <th>Configuración</th>
+    <th>Aplicación</th>
+  </tr>
+  <tr>
+    <td><strong>Outfit</strong></td>
+    <td>Fuente principal</td>
+    <td>Tipografía geométrica inspirada en interfaces modernas y productos tecnológicos. Su estructura limpia y minimalista comunica eficiencia y exactitud en un entorno de monitoreo IoT médico.</td>
+  </tr>
+  <tr>
+    <td><strong>Headings & Titulos</strong></td>
+    <td>Bold (700) y SemiBold (600)</td>
+    <td>Establecen una jerarquía visual fuerte y profesional, asegurando que los datos críticos (como temperatura y humedad) sean el foco de atención.</td>
+  </tr>
+  <tr>
+    <td><strong>Body Text</strong></td>
+    <td>Regular (400) y Light (300)</td>
+    <td>Se usa en contenido general y descripciones técnicas, garantizando legibilidad óptima en reportes y paneles de control durante supervisiones prolongadas.</td>
+  </tr>
+</table>
 
-Headings & Títulos: Se utilizan los pesos Bold (700) y SemiBold (600) para establecer una jerarquía visual fuerte y profesional, asegurando que los datos críticos (como los valores de temperatura y humedad) sean el foco de atención.
+    La elección de Outfit logra un equilibrio perfecto entre la estética premium del software moderno y la rigurosidad institucional requerida por entidades como DIGEMID o MINSA. Al ser una fuente de Google Fonts, asegura una carga rápida y una visualización consistente en cualquier dispositivo o plataforma web.
 
-Body Text: Se emplean los pesos Regular (400) y Light (300) para el contenido general y descripciones técnicas, garantizando una legibilidad óptima en reportes y paneles de control, incluso en periodos prolongados de supervisión.
-
-Typography Example
-La elección de Outfit logra un equilibrio perfecto entre la estética premium del software moderno y la rigurosidad institucional requerida por entidades como DIGEMID o MINSA. Al ser una fuente de la biblioteca de Google Fonts, asegura una carga rápida y una visualización consistente en cualquier dispositivo o plataforma web.
 
 <img src="../assets/Tipografia-example.png"/>
 
@@ -182,9 +225,104 @@ De esta manera, el lenguaje utilizado refuerza la misión de la plataforma: gara
 
 ### 4.1.2. Web Style Guidelines
 
----
+<div style="border-left: 5px solid #112433; padding: 14px 16px; border-radius: 8px; background: rgba(17,36,51,0.08); margin: 10px 0 14px 0;">
+  <strong style="font-size: 1.05rem;">Responsive-First Approach</strong>
+  <p style="margin: 10px 0 0 0;">
+    Nuestra plataforma web está diseñada bajo un enfoque Responsive-First, garantizando que el monitoreo de suministros y la visualización de sensores sean claros, accesibles y consistentes en cualquier dispositivo (Desktop, Tablet o Mobile). Todas las decisiones visuales se han tomado siguiendo principios de sofisticación, legibilidad técnica y usabilidad de alto rendimiento, asegurando que el personal de salud y logística pueda tomar decisiones críticas sin fricciones.
+  </p>
+</div>
 
-## 4.2. Information Architecture
+<div style="border-left: 5px solid #F37021; padding: 14px 16px; border-radius: 8px; background: rgba(243,112,33,0.08); margin: 10px 0 12px 0;">
+  <strong style="font-size: 1.05rem;">Layout y Grid System</strong>
+  <p style="margin: 10px 0 0 0;">El diseño de MediTrack Sensor se basa en un sistema de rejilla de 12 columnas, permitiendo una disposición flexible de paneles de control y tarjetas de datos.</p>
+</div>
+
+<table>
+  <tr>
+    <th>Componente</th>
+    <th>Descripción</th>
+    <th>Impacto UX</th>
+  </tr>
+  <tr>
+    <td><strong>Grid de 12 columnas</strong></td>
+    <td>Base estructural para organizar dashboards, paneles y tarjetas de forma flexible.</td>
+    <td>Escalabilidad visual y consistencia entre módulos.</td>
+  </tr>
+  <tr>
+    <td><strong>Estructura del Dashboard</strong></td>
+    <td>Diseño modular con métricas clave (Temperatura, Humedad, Luz) en espacios jerárquicos definidos.</td>
+    <td>Lectura rápida de información crítica y expansión fluida según nodos conectados.</td>
+  </tr>
+</table>
+
+
+<div style="border: 1px solid #d9e6ff; border-radius: 8px; padding: 12px 14px; background: rgba(239,246,255,0.45); margin: 12px 0 10px 0;">
+  <strong>Patrón de Navegación (lectura en F)</strong>
+  <p style="margin: 8px 0 8px 0;">En la landing page y el panel principal se utiliza un patrón de lectura en F, optimizado para el escaneo rápido de datos técnicos y alertas:</p>
+  <ul style="margin: 0; padding-left: 18px;">
+    <li><strong>Identidad y Navegación:</strong> logo y acceso a sectores/tecnología en la parte superior izquierda.</li>
+    <li><strong>Acción Inmediata:</strong> botón principal "Contáctanos" resaltado en la parte superior derecha.</li>
+    <li><strong>Visualización Central:</strong> hero section con propuesta de valor y dashboard en tiempo real como foco principal.</li>
+    <li><strong>Validación:</strong> sellos de cumplimiento (DIGEMID/MINSA) y estados del sistema en zonas estratégicas.</li>
+  </ul>
+</div>
+
+
+<p style="margin-top: 10px;">
+  Este sistema asegura una jerarquía visual donde la información crítica siempre tiene prioridad, manteniendo la coherencia estética "glassmorphism" y profesional de la marca.
+</p>
+
+<div style="border-left: 5px solid #10B981; padding: 14px 16px; border-radius: 8px; background: rgba(16,185,129,0.08); margin: 12px 0 14px 0;">
+  <strong style="font-size: 1.05rem;">Responsive Design</strong>
+  <p style="margin: 10px 0 0 0;">
+    En MediTrack Sensor, la capacidad de respuesta no es solo una cuestión estética, sino una necesidad operativa. Hemos definido breakpoints estratégicos para asegurar que el monitoreo de la cadena de frío y los suministros farmacéuticos sea impecable, ya sea desde un smartphone en un almacén o desde una estación de control central.
+  </p>
+</div>
+
+<table>
+  <tr>
+    <th>Dispositivo</th>
+    <th>Breakpoint</th>
+    <th>Navegación</th>
+    <th>Dashboard e Interacción</th>
+  </tr>
+  <tr>
+    <td><strong>Mobile</strong></td>
+    <td>&lt;= 480px</td>
+    <td>Menú comprimido en formato hamburguesa para priorizar el espacio de visualización de datos.</td>
+    <td>Tarjetas de sensores en una sola columna y botones de acción (como "Contáctanos" y alertas) al 100% del ancho para uso táctil.</td>
+  </tr>
+  <tr>
+    <td><strong>Tablet</strong></td>
+    <td>481 - 768px</td>
+    <td>Distribución en dos columnas para comparar métricas de distintos nodos simultáneamente.</td>
+    <td>Descripciones cortas bajo iconos y botones de tamaño mediano con spacing de 16px para equilibrio visual.</td>
+  </tr>
+  <tr>
+    <td><strong>Desktop</strong></td>
+    <td>&gt;= 1024px</td>
+    <td>Menú principal completamente desplegado en el navbar superior.</td>
+    <td>Aprovechamiento total del grid de 12 columnas y espacio expandido para históricos, trazabilidad DIGEMID/MINSA y administración robusta.</td>
+  </tr>
+</table>
+
+<img src="../assets/navMU.png" alt="Landing Page Mock Up" style="max-width: 100%; height: auto;">
+
+<img src="../assets/sobrePlataformaMU.png" alt="Landing Page Mock Up" style="max-width: 100%; height: auto;">
+
+<img src="../assets/tecMU.png" alt="Landing Page Mock Up" style="max-width: 100%; height: auto;">
+
+<img src="../assets/paraQuienMU.png" alt="Landing Page Mock Up" style="max-width: 100%; height: auto;">
+
+<img src="../assets/comoFuncionaMU.png" alt="Landing Page Mock Up" style="max-width: 100%; height: auto;">
+
+<img src="../assets/quienesSomosMU.png" alt="Landing Page Mock Up" style="max-width: 100%; height: auto;">
+
+<img src="../assets/planesPagosMU.png" alt="Landing Page Mock Up" style="max-width: 100%; height: auto;">
+
+<img src="../assets/contactoMU.png" alt="Landing Page Mock Up" style="max-width: 100%; height: auto;">
+
+<img src="../assets/footerMU.png" alt="Landing Page Mock Up" style="max-width: 100%; height: auto;">
 
 ### 4.2.1. Organization Systems
 
