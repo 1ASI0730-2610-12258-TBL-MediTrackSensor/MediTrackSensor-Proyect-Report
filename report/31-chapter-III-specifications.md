@@ -45,6 +45,43 @@
 
 ## 3.3. Product Backlog
 
+La priorización esta basada en:
+
+* Mayor prioridad → funcionalidades core visibles y responsiveness
+* Menor prioridad → aspectos complementarios y de detalle
+
+Los Story Points se estimaron así:
+
+5 → funcionalidades complejas (responsive, diseño profesional)
+3 - 4 → funcionalidades medias (navegación, mensajes, contacto)
+1 - 2 → funcionalidades simples (accesos, textos, legibilidad)
+
 | # Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) |
 |---------|--------------|--------|-------------|----------------------------------|
-| | | | | |
+| 1 | US25 | Adaptación a dispositivos | Como visitante, quiero que la página funcione en distintos dispositivos para acceder desde cualquier lugar. | 5 |
+| 2 | US01 | Navegación clara | Como visitante, quiero navegar de forma clara y directa entre las secciones de la página para encontrar la información que necesito rápidamente. | 3 |
+| 3 | US06 | Mensaje principal claro | Como visitante, quiero entender rápidamente qué hace el producto en sí para evaluar su relevancia. | 3 |
+| 4 | US07 | Identificación del problema | Como visitante, quiero identificar qué problema puede resolver el producto para validar su necesidad. | 3 |
+| 5 | US08 | Relación problema-solución | Como visitante, quiero ver exactamente como resuelve el problema para confiar en la solución. | 3 |
+| 6 | US10 | Botón de contacto visible | Como visitante, quiero encontrar fácilmente un botón de contacto para comunicarme con la empresa. | 2 |
+| 7 | US11 | Acceso a contacto | Como visitante, quiero acceder a un formulario o medio de contacto para solicitar información. | 3 |
+| 8 | US13 | Presentación profesional | Como visitante, quiero ver un diseño estético de carácter profesional para confiar en la solución. | 5 |
+| 9 | US15 | Coherencia visual | Como visitante, quiero consistencia visual para tener una experiencia sólida y que transmita rigurosidad de parte del equipo. | 3 |
+| 10 | US21 | Información de monitoreo | Como visitante, quiero entender qué variables monitorea el sistema para evaluar su utilidad. | 3 |
+| 11 | US02 | Acceso a sección de tecnología | Como visitante, quiero acceder a la sección de tecnología para conocer cómo funciona el sistema que ofrece el producto. | 2 |
+| 12 | US03 | Acceso a sectores | Como visitante, quiero visualizar los sectores a los que está dirigido el producto para saber si aplica a mi contexto. | 2 |
+| 13 | US16 | Contenido para almacenes | Como visitante, quiero ver contenido relevante a mi trabajo de almacenamiento para entender el valor del producto. | 3 |
+| 14 | US17 | Contenido para entidades | Como visitante, quiero ver información orientada a gestión y logística para evaluar su implementación. | 3 |
+| 15 | US22 | Incentivo a contacto | Como visitante, quiero recibir el incentivo adecuado para contactar con la empresa para obtener más información. | 2 |
+| 16 | US23 | Claridad en acción | Como visitante, quiero saber qué hacer después de revisar la página para continuar el proceso. | 2 |
+| 17 | US05 | Visualización de beneficios | Como visitante, quiero entender los beneficios del producto para evaluar su utilidad neta. | 3 |
+| 18 | US19 | Explicación de funcionalidades | Como visitante, quiero conocer las funcionalidades del sistema para entender su alcance. | 3 |
+| 19 | US20 | Visualización de ventajas | Como visitante, quiero conocer ventajas frente a métodos tradicionales para valorar el cambio. | 2 |
+| 20 | US04 | Información del equipo | Como visitante, quiero conocer al equipo detrás del producto para generar confianza. | 2 |
+| 21 | US09 | Lenguaje comprensible | Como visitante, quiero que la información de la resolución de la problemática sea clara y sencilla para entenderla sin dificultad. | 2 |
+| 22 | US12 | Respuesta visual a interacción | Como visitante, quiero recibir retroalimentación visual al interactuar con elementos para entender que funcionan. | 3 |
+| 23 | US14 | Información estructurada | Como visitante, quiero que la información esté correctamente organizada para facilitar su lectura. | 2 |
+| 24 | US18 | Identificación de uso | Como visitante, quiero identificar cómo usaría el producto en mi entorno laboral para saber cómo usarlo. | 2 |
+| 25 | US24 | Lectura clara | Como visitante, quiero que el contenido sea legible para entenderlo fácilmente. | 2 |
+| 26 | US26 | Carga eficiente | Como visitante, quiero que la página cargue rápidamente para no perder tiempo. | 3 |
+| 27 | US27 | Exploración intuitiva | Como visitante, quiero explorar la página sin instrucciones para entender su contenido. | 2 |
