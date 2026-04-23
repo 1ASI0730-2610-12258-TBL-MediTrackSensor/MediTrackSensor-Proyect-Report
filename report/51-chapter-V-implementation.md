@@ -233,6 +233,17 @@ El deploy de la Landing Page se hizo en Vercel de la siguiente manera
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
+La implementación de la entrega AV1 fue un esfuerzo conjunto que integró el desarrollo técnico de la Landing Page y la elaboración del reporte de ingeniería. El equipo aplicó un liderazgo compartido donde cada integrante fue responsable de la calidad de sus respectivos apartados, manteniendo una comunicación constante para asegurar la coherencia entre el diseño, los requerimientos y el producto desplegado.
+
+A continuación, se presentan las evidencias de colaboración extraídas de los analíticos de GitHub, las cuales muestran la participación activa de todos los miembros tanto en el repositorio del código fuente como en el repositorio del informe del proyecto.
+
+**Evidencia de Contribuciones en el Código (Landing Page):**
+
+<img src="assets/Deploy Contributors del repositorio de la Landing Page.png" />
+
+**Evidencia de Contribuciones en el Reporte (Documentation):**
+
+<img src="assets/Contributors del repositorio del informe.png" />
 ---
 
 ## 5.3. Validation Interviews
