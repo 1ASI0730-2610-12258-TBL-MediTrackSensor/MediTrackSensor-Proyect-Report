@@ -219,8 +219,6 @@ Durante el Sprint 1, el equipo utilizó GitHub como sistema de control de versio
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
-
 En esta sección se presenta la evidencia de la ejecución del Sprint 1, demostrando el cumplimiento de los objetivos establecidos y el despliegue del producto en un entorno de producción accesible.
 
 <img src="assets/Landing pAge EVIDENCE.png"/>
@@ -283,10 +281,6 @@ A continuación, se presentan las evidencias de colaboración extraídas de los 
 ---
 
 # Conclusiones
-
-## Conclusiones y recomendaciones
-
-## Conclusiones
 
 * El equipo ha logrado establecer una base sólida para el proyecto **MediTrack Sensor**, definiendo con claridad los segmentos objetivo (almacenes farmacéuticos y entidades de salud) y sus necesidades críticas de monitoreo ambiental. La alineación entre el Startup Profile y la solución propuesta garantiza que el producto final tenga un valor real en el sector salud peruano.
 
