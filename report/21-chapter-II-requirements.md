@@ -344,8 +344,51 @@ Dayana Quispe, de 25 años y residente en La Molina, realiza prácticas farmacé
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
+Esta sección representa los principales perfiles de usuario que fueron creados en base a los segmentos objetivos. El propósito principal de la creación de estos perfiles es el de reflejar de manera precisa las motivaciones, frustraciones y las necesidades reales de nuestros usuarios finales.
+
+Para ello seleccionamos los siguientes perfiles:
+
+User Persona 1
+<img src="assets/UserPersona1_Luis _Lucho_ Mendoza.png" />
+
+User Persona 2
+<img src="assets/UserPersona2_Omar Ruiz.png"/>
+
 
 ### 2.3.2. User Task Matrix
+
+Las siguientes matrices detallan las tareas críticas identificadas para cada arquetipo de usuario. La prioridad de desarrollo se establece mediante el cruce de importancia y frecuencia, permitiendo al equipo técnico identificar las funcionalidades de mayor impacto (Core Features).
+
+* **Importancia:** Escala del 1 al 5 (5 siendo crítico para la continuidad operativa).
+* **Frecuencia:** Periodicidad con la que el usuario realiza la acción (Diaria, Semanal, Mensual o Eventual).
+
+---
+
+### Matriz de Tareas: Luis Mendoza (El Guardián Operativo)
+*Enfoque: Monitoreo directo y acciones preventivas en el almacén.*
+
+| Actividad / Tarea | Importancia | Frecuencia | Descripción del Usuario |
+| :--- | :---: | :---: | :--- |
+| **Consultar temperatura actual** | 5 | Diaria | Revisar que los equipos estén en el rango adecuado (ej. 2°C a 8°C). |
+| **Registrar incidencia ambiental** | 5 | Eventual | Notificar inmediatamente cuando ocurre una desviación de temperatura. |
+| **Recibir alertas push** | 5 | Eventual | Notificación sonora en el celular ante fallos fuera de horario laboral. |
+| **Cargar datos de inventario** | 3 | Semanal | Vincular qué lotes de medicamentos están en qué refrigerador. |
+| **Generar bitácora diaria** | 4 | Diaria | Exportar el resumen de lecturas para la entrega de turno. |
+| **Realizar checklist de limpieza** | 2 | Semanal | Registrar el mantenimiento básico de los equipos de frío. |
+
+---
+
+### Matriz de Tareas: Omar Ruiz (El Gestor de Cumplimiento)
+*Enfoque: Supervisión, cumplimiento normativo y toma de decisiones estratégicas.*
+
+| Actividad / Tarea | Importancia | Frecuencia | Descripción del Usuario |
+| :--- | :---: | :---: | :--- |
+| **Visualizar Dashboard central** | 5 | Diaria | Ver el estado de salud de todos los almacenes desde una sola vista. |
+| **Generar reporte histórico** | 5 | Mensual | Descargar PDFs con gráficos de temperatura para entes reguladores. |
+| **Configurar umbrales de alerta** | 4 | Eventual | Definir los rangos permitidos de temperatura para cada tipo de fármaco. |
+| **Gestionar usuarios y accesos** | 3 | Mensual | Dar de alta o baja a los técnicos que tienen acceso al sistema. |
+| **Analizar patrones de falla** | 4 | Mensual | Identificar qué equipos fallan con más frecuencia para planear mantenimiento. |
+| **Validar firmas digitales** | 5 | Diaria | Revisar y aprobar los registros de incidencias reportados por los técnicos. |
 
 ### 2.3.3. User Journey Mapping
 
