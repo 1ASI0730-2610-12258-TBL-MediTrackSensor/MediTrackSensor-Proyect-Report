@@ -74,6 +74,76 @@ de medicamentos.
 
 ### 4.2.2. Labeling Systems
 
+En MediTrack Sensor, el sistema de etiquetado ha sido diseñado priorizando la claridad, simplicidad y rápida 
+comprensión de la información por parte del personal operativo y las entidades de salud. Las etiquetas 
+utilizadas dentro de la plataforma buscan reducir la carga cognitiva de los usuarios, facilitando la navegación
+y el acceso inmediato a funcionalidades críticas relacionadas al monitoreo ambiental de medicamentos.
+
+##### 1. Landing Page Labels
+
+Las etiquetas del sitio web estático están orientadas a comunicar la propuesta de valor del producto y 
+facilitar el acceso a la información principal de la plataforma.
+
+-**Home**: Representa la página principal y presenta una visión general de MediTrack Sensor y su propuesta de
+valor.
+
+-**Technology**: Agrupa la información relacionada al funcionamiento del sistema, sensores IoT y monitoreo en
+tiempo real.
+
+-**Benefits**: Presenta las ventajas y beneficios que ofrece la plataforma para el control y conservación de
+medicamentos.
+
+-**Sectors**: Muestra los distintos sectores y tipos de instituciones donde el sistema puede ser implementado.
+
+-**About Us**: Incluye información sobre el equipo responsable del desarrollo de MediTrack Sensor, así como 
+la misión y visión del proyecto.
+
+-**Pricing**: Agrupa los planes de suscripción y características disponibles según las necesidades de cada 
+institución.
+
+-**Contact**: Representa la sección destinada a la comunicación directa con el equipo mediante formularios 
+o información de contacto.
+
+##### 2. Web Application Labels (Dashboard & Navigation)
+
+Las etiquetas dentro de la aplicación web están orientadas a facilitar el acceso rápido a funciones 
+operativas y de supervisión a ambos sectores objetivos.
+
+-**Dashboard**: Representa el panel principal con información resumida sobre sensores, condiciones 
+ambientales y alertas activas.
+
+-**Sensors**: Agrupa la gestión y visualización de sensores conectados al sistema.
+
+-**Alerts**: Incluye las alertas generadas ante variaciones críticas de temperatura, humedad o luz.
+
+-**Warehouses**: Representa la gestión de almacenes, sedes o áreas monitoreadas.
+
+-**Reports**: Agrupa reportes históricos, métricas y análisis relacionados a las condiciones ambientales 
+registradas.
+
+-**Incidents**: Permite visualizar y registrar incidencias relacionadas al almacenamiento de medicamentos.
+
+-**Settings**: Incluye configuraciones generales del sistema, preferencias y administración de cuentas.
+
+##### 3. Status Labels (Estados del Sistema)
+
+Para mejorar la comprensión rápida del estado de las condiciones ambientales y eventos del sistema, 
+se utilizan etiquetas estandarizadas:
+
+-**Normal**: Las condiciones ambientales se encuentran dentro de los rangos permitidos.
+
+-**Warning**: Se detecta una variación cercana al límite permitido y requiere supervisión.
+
+-**Critical**: Las condiciones ambientales exceden los rangos seguros establecidos.
+
+-**Offline**: El sensor o dispositivo no se encuentra conectado o disponible.
+
+-**Resolved**: La incidencia o alerta ha sido atendida y solucionada correctamente.
+
+Este sistema de etiquetado permite que la navegación y comprensión de la plataforma sean más intuitivas, 
+facilitando la supervisión y gestión eficiente de las condiciones de almacenamiento dentro del sector salud.
+
+
 ### 4.2.3. SEO Tags and Meta Tags
 
 ### 4.2.4. Searching Systems
