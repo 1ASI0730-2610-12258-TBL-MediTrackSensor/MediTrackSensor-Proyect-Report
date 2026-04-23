@@ -4,7 +4,163 @@
 
 ### 2.1.1. Análisis competitivo
 
+<table>
+  <tr>
+    <th colspan="6">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="1">¿Por qué llevar a cabo el análisis?</td>
+    <td colspan="5">El análisis competitivo es muy útil para identificar los puntos fuertes y débiles que tenemos frente a otras empresas con productos similares, y para definir cómo deberíamos proceder con el desarrollo del producto a fin de superarnos frente a la competencia.</td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td><b>MediTrack Sensor</b></td>
+    <td><b>Sensitech (TempTale)</b></td>
+    <td><b>Monnit (iMonnit)</b></td>
+    <td><b>MOCREO</b></td>
+  </tr>
+  <tr>
+    <td colspan="2">Logo</td>
+    <td><img src="assets/MediTrack.png" alt="MediTrack"/></td>
+    <td><img src="assets/Sensitech.png" alt="Sensitech"/></td>
+    <td><img src="assets/Monnit.jpg" alt="Monnit"/></td>
+    <td><img src="assets/MOCREO.png" alt="MOCREO"/></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td>Plataforma web peruana con sensores IoT para monitorear temperatura, humedad y luz en almacenes farmacéuticos de hospitales, clínicas y farmacias, con alertas en tiempo real e historial de datos, alineada a normativas sanitarias locales.</td>
+    <td>Empresa estadounidense líder global en monitoreo de cadena de frío farmacéutica, con sensores TempTale y plataforma SensiWatch. Parte de Carrier Global Corporation. Más de 30 años en el mercado.</td>
+    <td>Empresa estadounidense fundada en 2010, especializada en sensores IoT inalámbricos de bajo costo para monitoreo remoto en múltiples industrias incluyendo salud. Plataforma en la nube iMonnit disponible vía web y app móvil.</td>
+    <td>Empresa de origen chino con presencia global, orientada a sensores inalámbricos de temperatura y humedad para hospitales, clínicas y farmacias pequeñas. Solución accesible con pago único sin costos recurrentes.</td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td>Solución diseñada específicamente para el contexto peruano: normativas sanitarias locales, infraestructura limitada, hospitales públicos y entidades como el MINSA. Primera opción adaptada al mercado de salud latinoamericano.</td>
+    <td>Validación regulatoria global (FDA 21 CFR Parte 11, GAMP5), precisión certificada NIST, y cobertura de cadena de frío extrema (hasta -200 °C). Confianza y respaldo de las principales farmacéuticas del mundo.</td>
+    <td>Sensores desde $49 con monitoreo básico gratuito, batería de hasta 10 años, configuración en 15 minutos y más de 80 tipos de sensores. Relación costo-beneficio superior en el segmento de pequeñas y medianas instituciones.</td>
+    <td>Sistema completo desde $50 con inversión única sin costos recurrentes, alertas vía app, email y buzzer, con monitoreo 24/7. Ideal para farmacias y clínicas con presupuesto muy reducido.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td>Mercado Objetivo</td>
+    <td>Hospitales, clínicas, farmacias, almacenes farmacéuticos y entidades del Estado peruano (MINSA, redes de salud), especialmente en zonas donde no existe infraestructura tecnológica de monitoreo.</td>
+    <td>Grandes laboratorios farmacéuticos, distribuidoras globales y hospitales de alto nivel en mercados desarrollados (EE.UU., Europa, Asia). Enfocado en cadenas de frío internacionales de alto valor.</td>
+    <td>Hospitales medianos, clínicas, laboratorios de investigación, instalaciones de salud y empresas industriales en EE.UU. y 90+ países. Orientado a instituciones que buscan bajo costo con funcionalidad robusta.</td>
+    <td>Farmacias pequeñas, clínicas y hospitales con presupuesto reducido en mercado global. Especialmente en zonas donde el costo de los sistemas tradicionales es prohibitivo.</td>
+  </tr>
+  <tr>
+    <td>Estrategias de Marketing</td>
+    <td>Enfoque directo en instituciones de salud peruanas, alianzas con el sector público, propuesta de valor orientada al cumplimiento de normativas sanitarias locales y reducción de pérdidas económicas por deterioro.</td>
+    <td>Posicionamiento premium, certificaciones regulatorias como diferencial, casos de éxito con farmacéuticas globales (Pfizer, Direct Relief), ventas B2B a través de distribuidores especializados.</td>
+    <td>Marketing digital con énfasis en bajo costo y facilidad de uso, prueba gratuita de 45 días, distribuidores internacionales, y reconocimiento por premios tecnológicos (IoT Breakthrough Award 2024 y 2025).</td>
+    <td>E-commerce directo al consumidor (D2C), precio competitivo como principal argumento, venta a través de plataformas como Amazon y su sitio web propio.</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Perfil de Producto</td>
+    <td>Productos y Servicios</td>
+    <td>Plataforma web con dashboard en tiempo real, sensores IoT para temperatura, humedad y luz, sistema de alertas automáticas, historial de datos y reportes para auditorías.</td>
+    <td>Sensores TempTale (temperatura, humedad, luz, ubicación GPS), plataforma SensiWatch, servicios de logística de cadena de frío, monitoreo 24/7, reportes de cumplimiento regulatorio y analítica avanzada.</td>
+    <td>Más de 80 tipos de sensores inalámbricos (temperatura, humedad, agua, luz, movimiento), gateways, plataforma iMonnit en la nube y app móvil, con planes básicos gratuitos y premium (iMonnit Premiere).</td>
+    <td>Sensores inalámbricos de temperatura y humedad, hub de monitoreo local con pantalla LCD, plataforma web y app móvil con historial de datos y alertas en tiempo real.</td>
+  </tr>
+  <tr>
+    <td>Precios y Costos</td>
+    <td>Modelo SaaS con suscripción mensual según número de sedes: Plan Básico (una sede, visualización en tiempo real y alertas básicas), Plan Profesional (varias áreas o sucursales, historial, reportes y alertas avanzadas), Plan Premium (múltiples sedes centralizadas, automatización, análisis de tendencias y soporte prioritario).</td>
+    <td>Precio elevado, orientado a contratos corporativos. No disponible públicamente; se gestiona mediante cotización directa con distribuidores autorizados.</td>
+    <td>Sensores desde $49. Monitoreo básico gratuito. Plan Premiere con funcionalidades avanzadas a bajo costo anual.</td>
+    <td>Sistema completo desde $50 como inversión única sin costos de suscripción recurrentes.</td>
+  </tr>
+  <tr>
+    <td>Canales de distribución (Web y/o Móvil)</td>
+    <td>Plataforma web accesible desde navegador, con potencial de app móvil para alertas y supervisión remota.</td>
+    <td>Plataforma web SensiWatch, app móvil, distribuidores internacionales y equipos de venta directa B2B.</td>
+    <td>Plataforma web iMonnit, app móvil para iOS y Android, distribuidores en más de 90 países.</td>
+    <td>Sitio web propio, app móvil, y canales de e-commerce como Amazon para distribución directa.</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Análisis SWOT</td>
+    <td>Fortalezas</td>
+    <td>Adaptación al mercado y normativas sanitarias peruanas, enfoque exclusivo en salud farmacéutica, conocimiento del problema local, costo accesible para el sector público.</td>
+    <td>Liderazgo global con 30+ años de experiencia, validación regulatoria rigurosa (FDA, GAMP5), precisión certificada NIST, cobertura de temperaturas extremas y respaldo de Carrier Global.</td>
+    <td>Bajo costo de entrada, amplio catálogo de sensores, configuración rápida (15 minutos), batería de larga duración (10+ años) y plataforma gratuita para uso básico.</td>
+    <td>Precio de entrada muy bajo ($50), sin costos recurrentes, fácil instalación, cobertura de temperatura amplia y presencia en e-commerce global.</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>Startup sin trayectoria comprobada, base de clientes aún por construir, recursos limitados para escalar rápidamente y sin certificaciones regulatorias internacionales.</td>
+    <td>Precio prohibitivo para hospitales públicos latinoamericanos, orientado exclusivamente a grandes corporaciones, sin adaptación a normativas locales del Perú.</td>
+    <td>No está especializado en el sector farmacéutico ni adaptado a normativas latinoamericanas; soporte técnico limitado fuera de EE.UU.</td>
+    <td>Funcionalidades limitadas para entornos regulados, sin cumplimiento de normativas farmacéuticas reconocidas, soporte postventa escaso y sin presencia local en Perú.</td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>Creciente demanda de digitalización en salud pública peruana, brechas normativas sin solución tecnológica local, potencial de expansión a otros países de la región con problemáticas similares.</td>
+    <td>Expansión en mercados emergentes latinoamericanos con regulaciones farmacéuticas en modernización, y crecimiento del mercado de vacunas y biológicos que requieren control estricto.</td>
+    <td>Crecimiento del sector salud en mercados emergentes que buscan soluciones IoT asequibles, sin necesidad de grandes inversiones iniciales.</td>
+    <td>Mercado de farmacias y clínicas pequeñas en Latinoamérica con alta necesidad de monitoreo y bajo presupuesto disponible.</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>Posible entrada de competidores internacionales con mayor respaldo financiero, baja cultura de adopción tecnológica en el sector salud público peruano y dependencia de conectividad a internet.</td>
+    <td>Competencia de soluciones más accesibles que cubren necesidades básicas a menor costo, y creciente regulación de privacidad de datos en nuevos mercados.</td>
+    <td>Competidores especializados en salud con mayor certificación regulatoria y soluciones más robustas para el sector farmacéutico.</td>
+    <td>Desconfianza en productos de origen chino en sectores regulados, limitaciones de soporte técnico local y ausencia de certificaciones farmacéuticas reconocidas.</td>
+  </tr>
+</table>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+A partir del análisis competitivo realizado, MediTrack Sensor define las siguientes
+estrategias y tácticas para posicionarse frente a sus competidores:
+
+**Frente a Sensitech (TempTale)**
+
+Sensitech es el competidor más consolidado del mercado con más de 30 años de
+experiencia y certificaciones regulatorias globales como FDA y GAMP5. Sin embargo,
+su precio prohibitivo y su orientación exclusiva a grandes corporaciones lo hacen
+inaccesible para hospitales públicos y clínicas medianas en el Perú. MediTrack Sensor
+aprovechará esta brecha ofreciendo planes de suscripción accesibles adaptados al
+presupuesto del sector salud peruano, con soporte en español y alineación a
+normativas sanitarias locales, aspectos que Sensitech no cubre para el mercado
+latinoamericano.
+
+**Frente a Monnit (iMonnit)**
+
+Monnit ofrece una solución de bajo costo con amplio catálogo de sensores, pero
+carece de especialización en el sector farmacéutico y no está adaptado a las
+normativas latinoamericanas. Además, su soporte técnico es limitado fuera de
+EE.UU. MediTrack Sensor se diferenciará mediante un enfoque exclusivo en salud
+farmacéutica, con funcionalidades específicas como gestión de medicamentos según
+sus condiciones de conservación, reportes orientados al cumplimiento de normativas
+sanitarias peruanas y soporte técnico local, aspectos que Monnit no puede garantizar
+para el contexto peruano.
+
+**Frente a MOCREO**
+
+MOCREO compite en precio con una inversión única desde $50 sin costos recurrentes,
+atractivo para organizaciones con presupuesto muy reducido. Sin embargo, sus
+funcionalidades son limitadas para entornos regulados y carece de certificaciones
+farmacéuticas reconocidas. MediTrack Sensor responderá destacando el valor agregado
+de su modelo SaaS: actualizaciones continuas, soporte técnico local, historial de datos
+en la nube y cumplimiento normativo, beneficios que una solución de pago único no
+puede garantizar a largo plazo. Adicionalmente, el Plan Básico de MediTrack Sensor
+ofrece un punto de entrada económico competitivo para farmacias y clínicas pequeñas
+que actualmente consideran MOCREO como única opción accesible.
+
+**Estrategia general**
+
+MediTrack Sensor se posicionará como la única solución de monitoreo ambiental
+farmacéutico diseñada específicamente para el mercado peruano, combinando
+accesibilidad económica mediante sus tres planes de suscripción, adaptación a
+normativas sanitarias peruanas y tecnología IoT orientada al sector salud.
+Las principales tácticas a implementar son alianzas directas con instituciones del
+sector salud público como el MINSA y redes hospitalarias, una propuesta de valor
+centrada en la reducción de pérdidas económicas por deterioro de medicamentos,
+y un modelo de onboarding simple que reduzca la resistencia a la adopción
+tecnológica en organizaciones con poca cultura digital, aprovechando la baja
+cultura tecnológica identificada como amenaza para convertirla en una oportunidad
+de diferenciación mediante capacitación y soporte continuo.
 
 ---
 
@@ -12,11 +168,178 @@
 
 ### 2.2.1. Diseño de entrevistas
 
+Con el objetivo de recolectar información relevante para la construcción de los
+arquetipos de cada segmento objetivo, se diseñaron las siguientes preguntas
+orientadas a identificar características demográficas, objetivas y subjetivas de
+los entrevistados.
+
+**Segmento 1: Personal operativo de almacenes farmacéuticos**
+
+Preguntas demográficas:
+1. ¿Cuál es su nombre, edad y distrito donde reside?
+2. ¿Cuál es su ocupación actual y en qué tipo de institución trabaja?
+3. ¿Cuánto tiempo lleva trabajando en el área de almacenamiento farmacéutico?
+
+Preguntas principales:
+1. ¿Cómo realiza actualmente el control de temperatura, humedad y luz en el almacén?
+2. ¿Con qué frecuencia registra las condiciones ambientales del almacén?
+3. ¿Ha tenido casos de medicamentos deteriorados por condiciones inadecuadas de
+   almacenamiento? ¿Qué pasó?
+4. ¿Cómo se entera actualmente cuando algo sale mal con las condiciones del almacén?
+5. ¿Qué tan rápido puede reaccionar ante una variación crítica de temperatura o humedad?
+6. ¿Qué herramientas o equipos usa actualmente para el monitoreo?
+7. ¿Qué tan cómodo se siente usando aplicaciones web o tecnología en su trabajo diario?
+
+Preguntas complementarias:
+1. ¿Qué dispositivos usa con más frecuencia en su trabajo (computadora, celular, tablet)?
+2. ¿Qué navegador o aplicaciones usa habitualmente?
+3. ¿Qué tan frustrante es el proceso actual de registro manual?
+4. Si tuviera una herramienta que le alertara automáticamente, ¿cómo cambiaría su trabajo?
+5. ¿Qué tan dispuesto estaría su institución a pagar por una solución de monitoreo digital?
+
+**Segmento 2: Entidades de salud y gestores farmacéuticos**
+
+Preguntas demográficas:
+1. ¿Cuál es su nombre, edad y distrito donde reside?
+2. ¿Cuál es su cargo y en qué tipo de institución trabaja (hospital, clínica, MINSA)?
+3. ¿Cuántas sedes o almacenes supervisa actualmente?
+
+Preguntas principales:
+1. ¿Cómo supervisa actualmente las condiciones de almacenamiento en las sedes a su cargo?
+2. ¿Qué tan difícil es tener visibilidad del estado de múltiples almacenes al mismo tiempo?
+3. ¿Ha enfrentado problemas de incumplimiento normativo relacionados al almacenamiento?
+   ¿Cómo los manejó?
+4. ¿Qué tipo de reportes o registros le exigen las normativas sanitarias vigentes?
+5. ¿Cómo toma decisiones cuando recibe un reporte de condiciones inadecuadas?
+6. ¿Qué tan importante es para usted tener acceso a datos históricos de las condiciones
+   de almacenamiento?
+7. ¿Ha evaluado o usado alguna solución tecnológica para este problema?
+   ¿Cuál fue su experiencia?
+
+Preguntas complementarias:
+1. ¿Qué dispositivos prefiere para supervisar información de gestión (computadora, celular)?
+2. ¿Qué tan abierta está su institución a adoptar nuevas tecnologías?
+3. ¿Cuál sería el principal obstáculo para implementar una solución digital en su institución?
+4. ¿Qué funcionalidad consideraría indispensable en una plataforma de monitoreo?
+5. ¿Qué presupuesto aproximado destina su institución a herramientas de control de calidad?
+
 ### 2.2.2. Registro de entrevistas
+
+#### Segmento 01
+
+* Nombre : Dolores Alvarez Cabeza
+* Edad : 62
+* Distrito : San Martín de Porres
+* Ocupación : Personal de salud asistencial
+* Browser: Google Chrome
+* Device : Computadora de escritorio
+
+![Entrevista](./assets/segmento01-entrevista.png)
+Dolores Álvarez Cabeza, de 62 años y residente en San Martín de Porres, se desempeña como personal de salud asistencial y utiliza una computadora de escritorio con Google Chrome para registrar la temperatura de los medicamentos en hojas de Excel. Señala que existen distintos tipos de medicamentos con requerimientos específicos de conservación, especialmente en lo relacionado a la temperatura; por ejemplo, en el caso de medicamentos destinados a recién nacidos, es fundamental mantener condiciones cercanas a los 24 °C para garantizar su eficacia y seguridad. Actualmente, el monitoreo se realiza de forma manual cada 6 horas, lo que implica un proceso repetitivo y propenso a errores humanos. Además, menciona que durante su experiencia en el Hospital San José, al ser una institución pública, en ocasiones no contaban con los recursos necesarios para asegurar un monitoreo adecuado de las condiciones de almacenamiento.
+
+---
+#### Segmento 02
+
+* Nombre : Dayana Quispe
+* Edad : 25
+* Distrito : La Molina
+* Ocupación : practicas farmaceuticas
+* Browser: Google Chrome
+* Device : Computadora de escritorio
+
+![Entrevista](./assets/segmento02-entrevista.png)
+
+Dayana Quispe, de 25 años y residente en La Molina, realiza prácticas farmacéuticas y utiliza una computadora de escritorio del hospital con Google Chrome en sus actividades. Durante sus prácticas, comenta que el monitoreo de temperatura y humedad se realiza de forma manual, registrando los datos en un cuaderno con apoyo de termómetros e hidrómetros, generalmente dos o tres veces al día dependiendo del turno asignado. Señala que este proceso puede ser riesgoso, ya que no permite un seguimiento continuo; por ejemplo, menciona que en una ocasión falló inesperadamente el módulo donde se almacenaban vacunas, lo que ocasionó la pérdida de algunas de ellas. Además, explica que, si la temperatura se registra correctamente en un momento dado pero el sistema se avería horas después, no se detectarían cambios a tiempo, ya que se asumiría que las condiciones siguen siendo adecuadas.
 
 ### 2.2.3. Análisis de entrevistas
 
+### Segmento 01: Personal Operativo
+
+* **Nombre:** Luis Mendoza
+* **Edad:** 36
+* **Distrito:** Ate
+* **Ocupación:** Técnico en farmacia en hospital público
+* **Browser:** Google Chrome
+* **Device:** Computadora y celular
+
+**Resumen:** Luis trabaja en el área de almacén de medicamentos de un hospital público desde hace 7 años. Actualmente realiza el control de temperatura y humedad de manera manual, registrando datos en cuadernos y ocasionalmente en Excel. El proceso es limitado, con registros solo dos o tres veces al día, lo que genera riesgos de no detectar variaciones críticas a tiempo. Ha enfrentado pérdidas de medicamentos por fallas en refrigeración y considera frustrante el sistema manual. Se siente cómodo con herramientas básicas y cree que una solución digital con alertas automáticas mejoraría significativamente la gestión, aunque en hospitales públicos el presupuesto es un factor clave.
+
 ---
+
+* **Nombre:** Jorge Pérez
+* **Edad:** 34
+* **Distrito:** San Juan de Lurigancho
+* **Ocupación:** Técnico de almacén en clínica privada
+* **Browser:** Google Chrome
+* **Device:** Celular y computadora
+
+**Resumen:** Jorge trabaja en una clínica privada en Miraflores y lleva 6 años en el área de almacenamiento farmacéutico. El control ambiental se realiza manualmente con termómetros y higrómetros básicos, registrando datos en cuadernos dos veces al día. Ha experimentado pérdidas de medicamentos por variaciones no detectadas durante fines de semana. El proceso manual resulta tedioso y poco confiable, especialmente en auditorías. Jorge utiliza principalmente su celular y considera que una herramienta digital con alertas automáticas sería un cambio positivo, ya que permitiría actuar de inmediato. Cree que su institución estaría dispuesta a pagar por una solución si el costo es razonable.
+
+### Segmento 02: Jefaturas y Supervisión
+
+* **Nombre:** Omar Ruiz
+* **Edad:** 47
+* **Distrito:** Surco
+* **Ocupación:** Químico farmacéutica y jefe de farmacia en hospital público
+* **Browser:** Google Chrome
+* **Device:** Computadora y celular
+
+**Resumen:** Ruiz supervisa tres almacenes en un hospital público y depende de reportes manuales entregados por encargados de cada área. El proceso es lento y poco confiable, dificultando la visibilidad en tiempo real. Ha enfrentado problemas de incumplimiento normativo por registros incompletos y reconoce la importancia de contar con datos históricos para auditorías. Considera indispensable una solución con alertas en tiempo real, preferiblemente accesible desde el celular. Aunque hay apertura a nuevas tecnologías, los procesos de adquisición en el sector público son lentos y el presupuesto limitado. Una solución económica y en español tendría mayor viabilidad.
+
+---
+
+* **Nombre:** Luis Mendoza
+* **Edad:** 36
+* **Distrito:** Ate
+* **Ocupación:** Técnico en farmacia en hospital público
+* **Browser:** Google Chrome
+* **Device:** Computadora y celular
+
+**Resumen:** Este entrevistado describe un sistema de control ambiental manual en hospitales públicos, con registros en cuadernos y ocasionalmente en Excel. La frecuencia de registro es limitada y no permite detectar variaciones críticas fuera de horario. Ha enfrentado pérdidas de medicamentos sensibles como vacunas debido a fallas en refrigeración. Considera frustrante el proceso manual y reconoce la necesidad de una solución digital con alertas automáticas. Aunque está dispuesto a aprender nuevas tecnologías, la adopción depende del presupuesto y aprobación administrativa en instituciones públicas.
+
+### 2.2.3. Análisis de entrevistas
+### Segmento 01: Personal operativo de almacenes farmacéuticos
+**(Entrevistados: Luis Mendoza – hospital público, Jorge Pérez – clínica privada)**
+
+#### Características objetivas:
+* **Registro manual de condiciones ambientales:** 100% realizan control con termómetros/higrómetros y anotaciones en cuadernos o Excel.
+* **Frecuencia de registro limitada:** 100% registran entre 2–3 veces al día, sin monitoreo continuo.
+* **Uso de dispositivos:** 100% utilizan computadora y celular en su trabajo.
+* **Browser más usado:** 100% mencionan Google Chrome.
+* **Experiencia laboral:** Ambos tienen más de 6 años en el área (100%).
+
+#### Características subjetivas:
+* **Frustración con el proceso manual:** 100% lo consideran tedioso, repetitivo y propenso a errores.
+* **Casos de pérdida de medicamentos por fallas ambientales:** 100% han experimentado deterioro de lotes por variaciones no detectadas.
+* **Valoración de alertas automáticas:** 100% consideran que una solución digital con notificaciones inmediatas sería una mejora significativa.
+* **Disposición a aprender nuevas tecnologías:** 100% están abiertos a capacitación si la herramienta es sencilla.
+* **Disposición institucional a pagar por soluciones:** 100% creen que sus instituciones estarían interesadas, siempre que el costo sea razonable.
+
+> **Conclusión del segmento:** > El personal operativo se caracteriza por depender de procesos manuales, con registros limitados y alta exposición a errores. Existe frustración generalizada y experiencias negativas por pérdidas de medicamentos. Valoran la simplicidad tecnológica y muestran apertura a soluciones digitales, siempre que sean fáciles de usar y económicamente viables. Este segmento representa usuarios que necesitan automatización básica, alertas inmediatas y facilidad de uso.
+
+---
+
+### Segmento 02: Gestores y responsables de farmacia en instituciones de salud
+**(Entrevistado: Omar Ruiz – hospital público)**
+
+#### Características objetivas:
+* **Supervisión de múltiples almacenes:** 100% supervisa más de un almacén (tres en total).
+* **Registro manual delegado:** 100% depende de reportes en papel entregados por personal operativo.
+* **Uso de dispositivos:** 100% prefiere computadora para reportes y celular para consultas rápidas.
+* **Browser más usado:** 100% utiliza Google Chrome.
+* **Experiencia profesional:** Más de 20 años en el área farmacéutica (deducido por edad y cargo).
+
+#### Características subjetivas:
+* **Dificultad de visibilidad en tiempo real:** 100% señala que depende de reportes manuales y carece de monitoreo simultáneo.
+* **Problemas de incumplimiento normativo:** 100% ha enfrentado observaciones por registros incompletos.
+* **Importancia de datos históricos:** 100% considera fundamental contar con historial para auditorías y evitar sanciones.
+* **Evaluación de soluciones tecnológicas previas:** 100% probó una solución importada, pero el costo y el idioma fueron barreras.
+* **Obstáculos institucionales:** 100% identifica presupuesto limitado y procesos administrativos lentos como principales trabas.
+* **Funcionalidad indispensable:** 100% prioriza alertas en tiempo real accesibles desde celular.
+* **Viabilidad económica:** 100% considera que un costo mensual entre 100–200 soles sería aceptable si se justifica.
+
+> **Conclusión del segmento:** > Los gestores farmacéuticos enfrentan el reto de supervisar múltiples almacenes con procesos manuales poco confiables. La visibilidad en tiempo real y los datos históricos son críticos para cumplir normativas y evitar sanciones. Valoran soluciones digitales que ofrezcan alertas inmediatas, reportes históricos y accesibilidad móvil, pero enfrentan barreras de presupuesto y burocracia. Este segmento representa usuarios que necesitan control centralizado, cumplimiento normativo y justificación de costo-beneficio.
+
 
 ## 2.3. Needfinding
 
