@@ -125,3 +125,22 @@ Los Story Points se estimaron así:
 | 25 | US24 | Lectura clara | Como visitante, quiero que el contenido sea legible para entenderlo fácilmente. | 2 |
 | 26 | US26 | Carga eficiente | Como visitante, quiero que la página cargue rápidamente para no perder tiempo. | 3 |
 | 27 | US27 | Exploración intuitiva | Como visitante, quiero explorar la página sin instrucciones para entender su contenido. | 2 |
+| 28 | **US29** | Monitoreo de temperatura en tiempo real | Como usuario, quiero visualizar la temperatura actual de los medicamentos para garantizar su conservación. | 8 |
+| 29 | **US51** | Detección de variaciones críticas | Como sistema, quiero detectar automáticamente cuando los valores salen del rango para alertar al usuario. | 8 |
+| 30 | **US52** | Alertas automáticas | Como usuario, quiero recibir alertas inmediatas cuando se excedan los límites para actuar rápidamente. | 5 |
+| 31 | **US31** | Recepción de avisos | Como usuario, quiero ser notificado por el sistema cuando ocurra un cambio brusco en las variables físicas. | 5 |
+| 32 | **US30** | Monitoreo de niveles de luz | Como usuario, quiero visualizar la intensidad de luz para proteger productos fotosensibles. | 5 |
+| 33 | **US35** | Configuración de rangos | Como usuario, quiero definir límites personalizados de temp/luz por cada tipo de medicamento. | 5 |
+| 34 | **US32** | Historial de registros | Como usuario, quiero acceder a los datos históricos para realizar análisis de comportamiento y auditorías. | 5 |
+| 35 | **US43** | Registro automático de datos | Como sistema, quiero almacenar los datos sin intervención manual para evitar errores humanos. | 5 |
+| 36 | **US37** | Visualización de gráficos | Como usuario, quiero ver gráficos interactivos de tendencias para entender la estabilidad del ambiente. | 5 |
+| 37 | **US36** | Alertas multicanal | Como usuario, quiero recibir notificaciones críticas vía email o panel para asegurar la lectura. | 5 |
+| 38 | **US42** | Identificación de desviaciones | Como usuario, quiero detectar rápidamente qué sensor específico salió de rango para intervenir el área. | 3 |
+| 39 | **US34** | Estado general del sistema | Como usuario, quiero ver un resumen global del dashboard para tomar decisiones operativas rápidas. | 3 |
+| 40 | **US41** | Monitoreo en transporte | Como usuario, quiero dar seguimiento a las condiciones durante el traslado para asegurar la cadena de frío. | 5 |
+| 41 | **US45** | Priorización de alertas | Como usuario, quiero que las alertas se clasifiquen por gravedad para atender primero las urgencias. | 3 |
+| 42 | **US28** | Visualización de sensores activos | Como usuario, quiero ver una lista de los nodos IoT instalados y su estado de conexión. | 3 |
+| 43 | **US48** | Información de planes | Como visitante, quiero conocer los costos y niveles de suscripción para evaluar la adquisición. | 3 |
+| 44 | **US49** | Información de la empresa | Como visitante, quiero leer la misión y visión de MediTrack para conocer su rigurosidad. | 2 |
+| 45 | **US50** | Formulario de contacto directo | Como visitante, quiero enviar mis datos a través de un formulario validado para obtener una cotización. | 3 |
+| 46 | **US46** | Notificación de desconexión | Como usuario, quiero saber si un sensor pierde señal para solicitar mantenimiento técnico. | 3 |
