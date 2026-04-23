@@ -146,6 +146,70 @@ facilitando la supervisión y gestión eficiente de las condiciones de almacenam
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+En MediTrack Sensor, se implementan etiquetas SEO (Search Engine Optimization) y Meta Tags dentro del 
+< head > del sitio web con el objetivo de mejorar la visibilidad de la plataforma en motores de búsqueda 
+como Google, así como optimizar la experiencia de navegación en distintos dispositivos y contextos de uso.
+
+Estas etiquetas permiten describir el contenido de la plataforma, mejorar su indexación y facilitar que 
+instituciones de salud, hospitales, clínicas y almacenes farmacéuticos encuentren soluciones relacionadas 
+con el monitoreo ambiental y la conservación de medicamentos. Porque aparentemente hoy en día si tu web no 
+tiene SEO, Google la manda al vacío cósmico donde viven las tareas entregadas fuera de fecha.
+
+A continuación, se describen las principales etiquetas utilizadas:
+
+**Meta Tags Básicas**
+
+- charset="utf-8": Define la codificación de caracteres, permitiendo que el contenido se visualice correctamente, incluyendo caracteres especiales y acentos.
+- viewport: Permite que la página sea responsive y se adapte correctamente a dispositivos móviles, tablets y computadoras.
+
+**SEO Tags**
+
+- title: Define el título de la página mostrado en los resultados de búsqueda. Resume la propuesta de valor de MediTrack Sensor.
+- meta description: Proporciona un resumen breve del contenido del sitio web, destacando el monitoreo en tiempo real de medicamentos y la gestión de condiciones ambientales.
+- meta keywords: Incluye palabras clave relacionadas con monitoreo farmacéutico, sensores IoT, temperatura, humedad y almacenamiento de medicamentos.
+- meta author: Identifica al equipo responsable del desarrollo de la plataforma.
+
+**Optimización de Recursos**
+- Preconnect (Google Fonts): Mejora el rendimiento estableciendo conexiones anticipadas con servidores externos utilizados por las tipografías.
+- CSS e íconos: Se integran librerías visuales para mantener consistencia gráfica y facilitar el diseño responsive de la plataforma.
+- Favicon: Representa visualmente a MediTrack Sensor en pestañas del navegador y marcadores.
+
+Codigo de ejemplo del head con SEO y Meta Tags:
+
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+      <title>MediTrack Sensor - Monitoreo inteligente de medicamentos</title>
+    
+      <meta name="description" content="MediTrack Sensor permite monitorear en tiempo real temperatura, 
+        humedad y luz en almacenes farmacéuticos mediante sensores IoT y dashboards inteligentes.">
+    
+      <meta name="keywords" content="MediTrack Sensor, monitoreo farmacéutico, IoT salud, temperatura 
+        medicamentos, humedad almacenes, conservación de medicamentos, hospitales, farmacias, sensores IoT">
+    
+      <meta name="author" content="Equipo TechnoByteLambders">
+    
+      <!-- CSS & Icons -->
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    
+      <!-- Fonts -->
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+    
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+      <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+      <!-- Custom Styles -->
+      <link rel="stylesheet" href="css/style.css">
+    
+      <!-- Favicon -->
+      <link rel="icon" href="/assets/MediTrack.png">
+    </head>
+
+
 ### 4.2.4. Searching Systems
 
 ### 4.2.5. Navigation Systems
