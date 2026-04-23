@@ -19,8 +19,10 @@ Contraloría: Almacén de Hospital Virgen de Fátima no cumple con las condicion
 
 # Anexos
 
+Recopilación de 3 entrevistas por segmento objetivo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216240_upc_edu_pe/IQC9LHfngiXQQo1Obij7K0OBAZVtMQiANyxRhhl0U5--0go?e=vBiJVb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ## Videos de Exposiciones
 
-| Entrega | Título | Enlace |
-|---------|--------|--------|
-| AV1 | | |
+| Entrega | Título          | Enlace |
+|---------|-----------------|--------|
+| AV1 | Exposisción Av1 | https://drive.google.com/drive/folders/1nH38g28IeEbZSu6ezcDFi0nh6URbGe9z?usp=sharing|
