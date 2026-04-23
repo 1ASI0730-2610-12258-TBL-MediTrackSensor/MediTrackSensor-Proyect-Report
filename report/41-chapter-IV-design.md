@@ -598,9 +598,21 @@ acceden a datos históricos, analizan tendencias y apoyan la toma de decisiones.
 
 ### 4.6.2. Software Architecture Context Diagram
 
+A continuación, se presenta el diagrama de contexto para el sistema MediTrack Sensor. Este nivel muestra cómo la plataforma se relaciona con los segmentos objetivo principales: el personal operativo, encargado de supervisar las condiciones ambientales en almacenes, y los gestores farmacéuticos, que analizan reportes históricos y cumplimiento normativo. Asimismo, se ilustra la interacción con los sensores IoT que proveen la telemetría en tiempo real y los sistemas externos de notificaciones y regulación que aseguran la trazabilidad y seguridad de los productos farmacéuticos.
+
+<img src="../assets/Context-Diagram.png"/>
+
 ### 4.6.3. Software Architecture Container Diagrams
 
+A continuación, se presenta el diagrama de contenedores de MediTrack Sensor. El sistema se compone de una Web Application desarrollada en Vue.js, que ofrece una interfaz reactiva para los usuarios, y una API Application que centraliza la lógica de negocio y la ingesta de datos IoT. Finalmente, se utiliza SQL Server como base de datos para garantizar la persistencia de registros históricos y perfiles, permitiendo una comunicación fluida entre el monitoreo en tiempo real y el almacenamiento seguro.
+
+<img src="../assets/Container-Diagram.png"/>
+
 ### 4.6.4. Software Architecture Components Diagrams
+
+A continuación, se presenta el diagrama de componentes para la API Application de MediTrack Sensor. Este nivel detalla los módulos internos responsables de gestionar los flujos críticos del sistema. Se incluyen el Auth Component para la seguridad mediante JWT, el Monitoring Controller que expone los servicios de telemetría y el Environment Service como núcleo de la lógica para el control de variables ambientales. Asimismo, se integran el Data Repository para la persistencia en SQL Server, y adaptadores específicos para la comunicación con el servicio de alertas y los sistemas regulatorios. Este diagrama refleja cómo la arquitectura interna garantiza la escalabilidad y el monitoreo eficiente de los medicamentos.
+
+<img src="../assets/Component-Diagram.png"/>
 
 ---
 
@@ -608,7 +620,7 @@ acceden a datos históricos, analizan tendencias y apoyan la toma de decisiones.
 
 ### 4.7.1. Class Diagrams
 
-<img src="assets/Meditrack - class diagram.jpg"/>
+<img src="../assets/Meditrack - class diagram.jpg"/>
 
 ---
 
@@ -616,4 +628,4 @@ acceden a datos históricos, analizan tendencias y apoyan la toma de decisiones.
 
 ### 4.8.1. Database Diagrams
 
-<img src="assets/Meditrack - database_diagram.png" alt="Meditack-datababase-diagram"/>
+<img src="../assets/Meditrack - database_diagram.png" alt="Meditack-datababase-diagram"/>
