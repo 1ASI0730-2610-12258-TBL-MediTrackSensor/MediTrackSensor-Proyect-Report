@@ -41,8 +41,6 @@
 
 # Registro de Versiones del Informe
 
-# Registro de Versiones del Informe
-
 | Versión | Fecha      | Autor(es) | Descripción de cambios |
 | :--- |:-----------| :--- | :--- |
 | 1.00 | 04/04/2026 | Rioja Nuñez, Franco Diego | Creación del reporte en formato Markdown y estructura base. |
@@ -66,12 +64,12 @@
 A continuación, se brindará un mayor detalle sobre las actividades realizadas en cada entrega, la participación de cada miembro de la startup y las evidencias correspondientes.
 
 ## Desarrollo del reporte
-#### TB1:
+#### AV1:
 
 <img src="assets/collabReport.png" alt="Collab Landing Page"/>
 
 ## Desarrollo de Landing Page
-#### TB1:
+#### AV1:
 
 <img src="assets/collabLanding.png" alt="Collab Landing Page"/>
 

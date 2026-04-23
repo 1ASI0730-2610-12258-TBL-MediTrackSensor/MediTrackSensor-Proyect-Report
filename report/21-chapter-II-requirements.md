@@ -392,6 +392,12 @@ Las siguientes matrices detallan las tareas críticas identificadas para cada ar
 
 ### 2.3.3. User Journey Mapping
 
+User Persona 1
+<img src="assets/User Persona 1 Journey map.png"/>
+
+User Persona 2
+<img src="assets/User Persona 2 Journey map.png"/>
+
 ### 2.3.4. Empathy Mapping
 
 ---
