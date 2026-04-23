@@ -2,7 +2,153 @@
 
 ## 4.1. Style Guidelines
 
+En este apartado, se mostrará de manera organizada los estilos y herramientas que se usarán para diseñar nuestra solución.
+
 ### 4.1.1. General Style Guidelines
+
+Brand Overview
+En la industria farmacéutica y de salud, el almacenamiento inadecuado de medicamentos representa un riesgo crítico para la salud pública y grandes pérdidas económicas. Actualmente, muchas organizaciones dependen de procesos manuales de registro de temperatura y humedad que son propensos a errores humanos, carecen de alertas en tiempo real y dificultan el cumplimiento de las estrictas normativas de trazabilidad. Esta falta de visibilidad impide una respuesta rápida ante fallas en la cadena de frío, poniendo en duda la eficacia de productos sensibles.
+
+MediTrack Sensor nace como una solución tecnológica avanzada de IoT diseñada para garantizar la integridad de los activos farmacéuticos. Nuestra plataforma integra sensores de alta precisión con un sistema de monitoreo inteligente que permite la supervisión constante de las condiciones ambientales. Con alertas automatizadas, análisis de datos en tiempo real y reportes de cumplimiento digitalizados, MediTrack Sensor transforma la gestión de almacenes en un proceso preventivo, seguro y transparente. De esta manera, no solo protegemos la calidad de los medicamentos, sino que optimizamos la eficiencia operativa y aseguramos el cumplimiento de los estándares internacionales de salud.
+
+Brand Name
+El nombre de nuestra solución, MediTrack Sensor, sintetiza su propósito técnico y funcional:
+
+“Medi”: Establece una conexión directa con el sector médico y farmacéutico, delimitando claramente el mercado objetivo.
+
+“Track”: Refleja la capacidad central del sistema para realizar un seguimiento, rastreo y monitoreo continuo de las variables críticas.
+
+“Sensor”: Enfatiza el componente tecnológico y de hardware que permite la recolección de datos precisos en el entorno físico.
+
+Hemos elegido un nombre en inglés con una estructura clara y profesional para proyectar una imagen de innovación tecnológica y escalabilidad global, facilitando su posicionamiento como una herramienta de alta ingeniería dentro de entornos corporativos y regulatorios de salud.
+
+Logo:
+<img src="../assets/Logo-MediTrack.png"/>
+
+Typography Analysis
+En MediTrack Sensor, la tipografía es un pilar fundamental para proyectar una identidad de alta precisión, innovación tecnológica y seguridad farmacéutica. A diferencia de esquemas tradicionales, hemos optado por una tipografía única versátil que cohesiona toda la experiencia visual:
+
+Outfit: Es la fuente principal declarada en tu proyecto. Se trata de una tipografía geométrica inspirada en el diseño de interfaces modernas y productos tecnológicos. Su estructura limpia y minimalista comunica la eficiencia y exactitud necesarias en un entorno de monitoreo IoT médico.
+
+Headings & Títulos: Se utilizan los pesos Bold (700) y SemiBold (600) para establecer una jerarquía visual fuerte y profesional, asegurando que los datos críticos (como los valores de temperatura y humedad) sean el foco de atención.
+
+Body Text: Se emplean los pesos Regular (400) y Light (300) para el contenido general y descripciones técnicas, garantizando una legibilidad óptima en reportes y paneles de control, incluso en periodos prolongados de supervisión.
+
+Typography Example
+La elección de Outfit logra un equilibrio perfecto entre la estética premium del software moderno y la rigurosidad institucional requerida por entidades como DIGEMID o MINSA. Al ser una fuente de la biblioteca de Google Fonts, asegura una carga rápida y una visualización consistente en cualquier dispositivo o plataforma web.
+
+<img src="../assets/Tipografia-example.png"/>
+
+### Colors
+
+La paleta de MediTrack Sensor combina tonos saturados para acciones y metricas criticas con fondos pastel que mejoran legibilidad y jerarquia visual.
+
+#### Colores Principales de Marca
+
+<table>
+  <tr>
+    <th>Color</th>
+    <th>Muestra</th>
+    <th>Hex</th>
+    <th>Uso</th>
+  </tr>
+  <tr>
+    <td>Naranja Energia</td>
+    <td><span style="display:inline-block;width:120px;height:24px;background:#F37021;border:1px solid #d9d9d9;border-radius:4px;"></span></td>
+    <td><strong>#F37021</strong></td>
+    <td>CTA principal, alertas criticas y variable de temperatura.</td>
+  </tr>
+  <tr>
+    <td>Azul Marino Profundo</td>
+    <td><span style="display:inline-block;width:120px;height:24px;background:#112433;border:1px solid #d9d9d9;border-radius:4px;"></span></td>
+    <td><strong>#112433</strong></td>
+    <td>Navbar, titulos y estructura visual institucional.</td>
+  </tr>
+</table>
+
+#### Paleta Funcional de Metricas
+
+<table>
+  <tr>
+    <th>Variable</th>
+    <th>Saturado</th>
+    <th>Pastel</th>
+    <th>Uso</th>
+  </tr>
+  <tr>
+    <td>Temperatura</td>
+    <td>
+      <span style="display:inline-block;width:92px;height:24px;background:#F37021;border:1px solid #d9d9d9;border-radius:4px;"></span><br>
+      <strong>#F37021</strong>
+    </td>
+    <td>
+      <span style="display:inline-block;width:92px;height:24px;background:#FFF5F1;border:1px solid #d9d9d9;border-radius:4px;"></span><br>
+      <strong>#FFF5F1</strong>
+    </td>
+    <td>Codifica temperatura y alerta; fondo suave de tarjeta e icono.</td>
+  </tr>
+  <tr>
+    <td>Humedad</td>
+    <td>
+      <span style="display:inline-block;width:92px;height:24px;background:#3B82F6;border:1px solid #d9d9d9;border-radius:4px;"></span><br>
+      <strong>#3B82F6</strong>
+    </td>
+    <td>
+      <span style="display:inline-block;width:92px;height:24px;background:#EFF6FF;border:1px solid #d9d9d9;border-radius:4px;"></span><br>
+      <strong>#EFF6FF</strong>
+    </td>
+    <td>Valor de humedad y datos tecnicos; fondo de apoyo en tarjetas.</td>
+  </tr>
+  <tr>
+    <td>Luz / Iluminacion</td>
+    <td>
+      <span style="display:inline-block;width:92px;height:24px;background:#FBBF24;border:1px solid #d9d9d9;border-radius:4px;"></span><br>
+      <strong>#FBBF24</strong>
+    </td>
+    <td>
+      <span style="display:inline-block;width:92px;height:24px;background:#FFFBEB;border:1px solid #d9d9d9;border-radius:4px;"></span><br>
+      <strong>#FFFBEB</strong>
+    </td>
+    <td>Variable de luz y fondo pastel para contraste sin deslumbrar.</td>
+  </tr>
+</table>
+
+#### Gama de Apoyo y Estados
+
+<table>
+  <tr>
+    <th>Color</th>
+    <th>Muestra</th>
+    <th>Hex</th>
+    <th>Uso</th>
+  </tr>
+  <tr>
+    <td>Blanco Pureza</td>
+    <td><span style="display:inline-block;width:120px;height:24px;background:#FFFFFF;border:1px solid #d9d9d9;border-radius:4px;"></span></td>
+    <td><strong>#FFFFFF</strong></td>
+    <td>Fondo principal de la interfaz.</td>
+  </tr>
+  <tr>
+    <td>Gris Carbon</td>
+    <td><span style="display:inline-block;width:120px;height:24px;background:#333333;border:1px solid #d9d9d9;border-radius:4px;"></span></td>
+    <td><strong>#333333</strong></td>
+    <td>Texto principal, subtitulos y contenido descriptivo.</td>
+  </tr>
+  <tr>
+    <td>Verde Estado</td>
+    <td><span style="display:inline-block;width:120px;height:24px;background:#10B981;border:1px solid #d9d9d9;border-radius:4px;"></span></td>
+    <td><strong>#10B981</strong></td>
+    <td>Indicadores positivos como "Sistema activo".</td>
+  </tr>
+  <tr>
+    <td>Pastel Menta</td>
+    <td><span style="display:inline-block;width:120px;height:24px;background:#ECFDF5;border:1px solid #d9d9d9;border-radius:4px;"></span></td>
+    <td><strong>#ECFDF5</strong></td>
+    <td>Fondo sutil para chips e indicadores de estado.</td>
+  </tr>
+</table>
+
+<img src="../assets/escala-colores.png"/>
 
 ### 4.1.2. Web Style Guidelines
 
