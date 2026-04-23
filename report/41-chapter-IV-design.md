@@ -212,6 +212,52 @@ Codigo de ejemplo del head con SEO y Meta Tags:
 
 ### 4.2.4. Searching Systems
 
+En MediTrack Sensor, se implementa un sistema de búsqueda y filtrado que permite a los usuarios acceder 
+rápidamente a información relevante relacionada con el monitoreo ambiental de medicamentos. Este sistema 
+busca reducir el tiempo de búsqueda, facilitar la supervisión de condiciones críticas y mejorar la toma de 
+decisiones dentro de la plataforma. Porque claramente revisar veinte tablas manualmente mientras un lote de 
+medicamentos se cocina lentamente a 32°C no es precisamente eficiencia operativa.
+
+El sistema está diseñado considerando los dos segmentos principales de usuarios: personal operativo de 
+almacenes farmacéuticos y entidades de salud o gestores farmacéuticos, adaptando las opciones de búsqueda 
+según sus necesidades específicas.
+
+#### Búsqueda y filtros en monitoreo de almacenes
+
+**Personal operativo de almacenes farmacéuticos**
+
+- Búsqueda por almacén o área: Permite localizar rápidamente un almacén, sala o zona específica dentro de la institución.
+- Filtrar por estado ambiental: Permite visualizar áreas según su estado actual, como “Normal”, “Alerta” o “Crítico”.
+- Filtrar por tipo de variable: Facilita consultar registros relacionados con temperatura, humedad o exposición a la luz.
+- Filtrar por rango de fechas: Permite revisar incidencias o registros históricos dentro de un periodo determinado.
+- Historial de alertas: Acceso a eventos previos relacionados con variaciones ambientales y condiciones fuera de rango.
+
+**Entidades de salud y gestores farmacéuticos**
+
+- Filtrar por sede o institución: Permite supervisar múltiples almacenes o establecimientos desde un único entorno centralizado.
+- Filtrar por estado de monitoreo: Visualización rápida de sedes con incidencias activas o condiciones críticas.
+- Filtrar por rango de fechas: Facilita el análisis histórico y la generación de reportes para auditorías o control interno.
+- Búsqueda de registros históricos: Permite acceder a datos almacenados relacionados con temperatura, humedad y luz en diferentes sedes.
+- Filtrar por tipo de incidencia: Permite identificar eventos específicos asociados a fallas ambientales o incumplimientos de condiciones de almacenamiento.
+
+
+#### Búsqueda en módulos adicionales
+
+- Alertas: Búsqueda y filtrado de alertas según prioridad, fecha o estado.
+- Reportes: Localización de reportes históricos por sede, fecha o tipo de variable monitoreada.
+- Usuarios y sedes: Búsqueda de usuarios registrados o almacenes asociados a la institución.
+
+**Visualización de resultados**
+
+Los resultados de búsqueda se presentan mediante tablas y paneles organizados que muestran información clave como estado ambiental, fecha del registro, sede asociada y nivel de alerta.
+Cada resultado permite acceder a una vista detallada donde el usuario puede revisar información específica sobre las condiciones monitoreadas y el historial relacionado.
+En caso de no existir coincidencias, el sistema muestra mensajes informativos como “No se encontraron resultados”, evitando confusión y mejorando la experiencia de navegación. Un pequeño gesto de humanidad digital en medio del sufrimiento académico colectivo.
+
+#### Flujo de búsqueda**
+
+El sistema de búsqueda se encuentra integrado dentro de los módulos principales de monitoreo, alertas y reportes mediante barras de búsqueda y filtros visibles e intuitivos.
+Los usuarios pueden aplicar, combinar o eliminar filtros fácilmente, permitiendo una navegación fluida y facilitando el acceso rápido a la información más relevante dentro de la plataforma.
+
 ### 4.2.5. Navigation Systems
 
 ---
