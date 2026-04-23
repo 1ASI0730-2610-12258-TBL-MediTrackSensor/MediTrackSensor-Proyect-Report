@@ -126,7 +126,27 @@ Los tipos permitidos son:
 
 ### 5.2.1. Sprint 1
 
+En este Sprint se desarrolló e implementó la primera versión
+del Landing Page de MediTrack Sensor, incluyendo su despliegue
+en un entorno accesible públicamente.
+
 #### 5.2.1.1. Sprint Planning 1
+
+A continuación se presenta el resumen del Sprint Planning Meeting
+realizado para el Sprint 1.
+
+| Sprint # | Sprint 1                                                                                                                                                                                                                                                                                                                             |
+|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background** |                                                                                                                                                                                                                                                                                                                                      |
+| Date | 2026-04-15                                                                                                                                                                                                                                                                                                                           |
+| Time | 04:30 PM                                                                                                                                                                                                                                                                                                                             |
+| Location | Reunión virtual vía Google Meet                                                                                                                                                                                                                                                                                                      |
+| Prepared By | Rioja Nuñez, Franco Diego                                                                                                                                                                                                                                                                                                            |
+| Attendees | Herrera Enriquez, Diego Fernando / Mallqui Vilca, Dhilsen Armil / Rioja Nuñez, Franco Diego / Tufiño Argüelles, Luis Angel / Urviola Condori, Mateo Sebastián                                                                                                                                                                        |
+| **Sprint Goal & User Stories** |                                                                                                                                                                                                                                                                                                                                      |
+| Sprint 1 Goal | Our focus is on establishing the project foundation and delivering the first version of the Landing Page. We believe it delivers a clear understanding of MediTrack Sensor's value proposition to potential visitors. This will be confirmed when the Landing Page is publicly deployed and covers content for both target segments. |
+| Sprint 1 Velocity | 21                                                                                                                                                                                                                                                                                                                                   |
+| Sum of Story Points | 21                                                                                                                                                                                                                                                                                                                                   |
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
