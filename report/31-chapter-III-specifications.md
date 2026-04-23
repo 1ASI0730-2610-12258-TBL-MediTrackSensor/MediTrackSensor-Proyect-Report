@@ -39,9 +39,49 @@
 | **US25**            | Adaptación a dispositivos       | Como visitante, quiero que la página funcione en distintos dispositivos para acceder desde cualquier lugar.                                           | Escenario 1: Dado que el usuario accede desde distintos tipos de dispositivos, cuando navega, entonces la experiencia se mantiene funcional.                                                                        | EP08                          |
 | **US26**            | Carga eficiente                 | Como visitante, quiero que la página cargue rápidamente para no perder tiempo.                                                                        | Escenario 1: Dado que el usuario accede al sitio, cuando carga la página, entonces el tiempo de espera es mínimo.                                                                                                   | EP08                          |
 | **US27**            | Exploración intuitiva           | Como visitante, quiero explorar la página sin instrucciones para entender su contenido.                                                               | Escenario 1: Dado que el usuario navega, cuando explora el sitio, entonces entiende cómo moverse sin ayuda.                                                                                                         | EP08                          |
+| **US28** | Visualización de sensores activos | Como personal de salud, quiero visualizar los sensores y su estado (activo/inactivo) para asegurar su correcto funcionamiento. | Escenario 1: Dado que el usuario accede al sistema, cuando revisa el panel, entonces visualiza el estado de cada sensor. | EP06 |
+| **US29** | Monitoreo de temperatura en tiempo real | Como personal de salud, quiero ver la temperatura en tiempo real para garantizar el almacenamiento adecuado. | Escenario 1: Dado que el sistema recibe datos, cuando el usuario visualiza el panel, entonces observa valores actualizados. | EP06 |
+| **US30** | Monitoreo de luz | Como personal de salud, quiero visualizar los niveles de luz para evitar exposición inadecuada. | Escenario 1: Dado que el usuario revisa datos, cuando observa el panel, entonces identifica niveles actuales. | EP06 |
+| **US31** | Recepción de alertas | Como personal de salud, quiero recibir alertas cuando los valores excedan los límites para actuar rápidamente. | Escenario 1: Dado que un valor excede el rango, cuando ocurre, entonces el sistema envía una alerta. | EP03 |
+| **US32** | Historial de registros | Como personal de salud, quiero acceder al historial de datos para analizar el comportamiento. | Escenario 1: Dado que el usuario accede al historial, cuando selecciona fechas, entonces visualiza registros. | EP06 |
+| **US33** | Identificación por ubicación | Como personal de salud, quiero identificar sensores por ubicación para ubicar problemas. | Escenario 1: Dado que revisa sensores, cuando observa detalles, entonces identifica ubicación. | EP05 |
+| **US34** | Estado general del sistema | Como visitante, quiero ver un resumen del estado general del sistema para entender rápidamente la situación. | Escenario 1: Dado que el usuario accede al dashboard, cuando visualiza resumen, entonces identifica estado global. | EP01 |
+| **US35** | Configuración de rangos | Como administrador, quiero definir rangos de temperatura y luz para distintos medicamentos. | Escenario 1: Dado que configura parámetros, cuando guarda cambios, entonces se aplican correctamente. | EP06 |
+| **US36** | Alertas multicanal | Como personal de salud, quiero recibir alertas por distintos medios para no perder eventos críticos. | Escenario 1: Dado que ocurre una alerta, cuando se genera, entonces se envía por canales configurados. | EP03 |
+| **US37** | Visualización de gráficos | Como personal de salud, quiero ver gráficos para entender tendencias. | Escenario 1: Dado que accede a gráficos, cuando analiza datos, entonces identifica patrones. | EP06 |
+| **US38** | Detección de fallas en sensores | Como técnico, quiero detectar fallas en sensores para evitar datos incorrectos. | Escenario 1: Dado que un sensor falla, cuando deja de enviar datos, entonces el sistema notifica. | EP03 |
+| **US39** | Registro de incidentes | Como personal de salud, quiero registrar incidentes para llevar control. | Escenario 1: Dado que ocurre un problema, cuando lo registra, entonces queda almacenado. | EP03 |
+| **US40** | Acceso remoto | Como usuario, quiero acceder al sistema desde cualquier lugar para monitorear sin estar presente. | Escenario 1: Dado que accede desde un dispositivo, cuando inicia sesión, entonces visualiza información. | EP08 |
+| **US41** | Monitoreo en transporte | Como personal logístico, quiero monitorear condiciones durante transporte para asegurar cadena de frío. | Escenario 1: Dado que sensores están en transporte, cuando accede, entonces ve datos en tiempo real. | EP05 |
+| **US42** | Identificación de desviaciones | Como personal de salud, quiero detectar desviaciones de parámetros para actuar rápidamente. | Escenario 1: Dado que un valor sale del rango, cuando revisa, entonces identifica desviación. | EP06 |
+| **US43** | Registro automático de datos | Como usuario, quiero que los datos se registren automáticamente para evitar errores manuales. | Escenario 1: Dado que el sensor envía datos, cuando llegan al sistema, entonces se almacenan automáticamente. | EP06 |
+| **US44** | Filtro por tipo de medicamento | Como personal de salud, quiero filtrar datos por medicamento para mejor control. | Escenario 1: Dado que aplica filtros, cuando selecciona opción, entonces visualiza datos relacionados. | EP05 |
+| **US45** | Priorización de alertas | Como administrador, quiero clasificar alertas por prioridad para actuar según gravedad. | Escenario 1: Dado que ocurre una alerta, cuando se genera, entonces se clasifica por nivel. | EP03 |
+| **US46** | Notificación de desconexión | Como técnico, quiero ser notificado si un sensor se desconecta para evitar pérdida de monitoreo. | Escenario 1: Dado que un sensor se desconecta, cuando ocurre, entonces el sistema alerta. | EP03 |
+| **US47** | Visualización de múltiples ubicaciones | Como usuario, quiero ver diferentes ubicaciones para tener control global. | Escenario 1: Dado que existen múltiples sedes, cuando accede, entonces visualiza todas. | EP05 |
+| **US48** | Información de planes | Como cliente potencial, quiero conocer planes y precios para evaluar contratación. | Escenario 1: Dado que accede a planes, cuando revisa, entonces entiende opciones disponibles. | EP02 |
+| **US49** | Información de la empresa | Como visitante, quiero conocer misión y objetivos para generar confianza. | Escenario 1: Dado que accede a “Nosotros”, cuando revisa, entonces comprende la empresa. | EP04 |
+| **US50** | Contacto con la empresa | Como cliente potencial, quiero contactarme con la empresa para solicitar información sobre el sistema. | Escenario 1: Dado que el usuario envía el formulario de contacto, cuando lo completa, entonces el mensaje es recibido por la empresa. | EP07 |
+| **US51** | Detección de variaciones críticas | Como personal de salud, quiero que el sistema detecte en tiempo real variaciones de temperatura y luz para prevenir riesgos en el almacenamiento de medicamentos. | Escenario 1: Dado que los sensores envían datos, cuando se supera un rango establecido, entonces el sistema detecta la variación automáticamente. | EP06 |
+| **US52** | Sistema de alertas automáticas | Como personal de salud, quiero recibir alertas automáticas cuando la temperatura o luz excedan los límites permitidos para actuar de inmediato. | Escenario 1: Dado que ocurre una variación crítica, cuando el sistema la detecta, entonces se envía una alerta al usuario en tiempo real. | EP03 |
+---
 
+#### Epics 
+
+| Epic ID | Título | Descripción |
+|--------|--------|-------------|
+| EP01 | Visualización inicial atractiva | Como visitante, quiero ver una presentación clara del producto al ingresar al sitio para entender rápidamente su propósito. |
+| EP02 | Propuesta de valor | Como visitante, quiero comprender claramente el valor diferencial del producto para evaluar su utilidad frente a otras soluciones. |
+| EP03 | Interacción del usuario | Como usuario, quiero interactuar con los elementos del sistema o sitio de forma intuitiva para acceder a la información sin dificultad. |
+| EP04 | Credibilidad y confianza | Como visitante, quiero percibir confianza en el sitio web para sentir seguridad al considerar el producto. |
+| EP05 | Segmentación de usuarios | Como visitante, quiero encontrar contenido adaptado a mi perfil para entender cómo el producto aplica a mi contexto. |
+| EP06 | Contenido informativo del sistema | Como usuario, quiero acceder a información detallada del sistema IoT para comprender su funcionamiento, variables monitoreadas y beneficios. |
+| EP07 | Llamado a la acción | Como visitante, quiero identificar fácilmente qué acción realizar después de revisar la página para continuar con el proceso de contacto o interés. |
+| EP08 | Accesibilidad y usabilidad | Como usuario, quiero utilizar el sistema o sitio sin dificultades para tener una experiencia fluida, rápida e intuitiva. |
 
 ## 3.2. Impact Mapping
+
+ ![Impact Mapping](./assets/impact-mapping.png)
 
 ## 3.3. Product Backlog
 
