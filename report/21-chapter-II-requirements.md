@@ -400,9 +400,20 @@ User Persona 2
 
 ### 2.3.4. Empathy Mapping
 
+Empathy map 1
+
+<img src="assets/Empathy map 1.JPEG"/>
+
+Empathy map 1
+
+<img src="assets/Empathy map 2.JPEG"/>
+
 ---
 
 ## 2.4. Big Picture EventStorming
+
+<img src="assets/Big Picture EventStorming.JPEG"/>
+
 
 ## 2.5. Ubiquitous Language
 Este glosario define los términos fundamentales que deben ser utilizados de forma
