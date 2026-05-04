@@ -404,9 +404,9 @@ Empathy map 1
 
 <img src="assets/Empathy map 1.JPEG"/>
 
-Empathy map 1
+Empathy map 2
 
-<img src="assets/Empathy map 2.JPEG"/>
+<img src="assets/Empathy map 2.png"/>
 
 ---
 
