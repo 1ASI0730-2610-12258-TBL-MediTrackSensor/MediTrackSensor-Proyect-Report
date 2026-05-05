@@ -412,13 +412,9 @@ Empathy map 2
 
 ## 2.4. Big Picture EventStorming
 
-Event Storming Fase 1
+Event Storming
 
-<img src="assets/EventStormingFase1.PNG"/>
-
-Event Storming Fase 2
-
-<img src="assets/EventStormingFase2.PNG"/>
+<img src="assets/EventStorming.png"/>
 
 
 ## 2.5. Ubiquitous Language
