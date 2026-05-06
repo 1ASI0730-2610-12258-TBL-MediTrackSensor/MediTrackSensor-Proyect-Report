@@ -25,4 +25,4 @@ Recopilación de 3 entrevistas por segmento objetivo: https://upcedupe-my.sharep
 
 | Entrega | Título          | Enlace |
 |---------|-----------------|--------|
-| AV1 | Exposisción Av1 | https://drive.google.com/drive/folders/1nH38g28IeEbZSu6ezcDFi0nh6URbGe9z?usp=sharing|
+| AV1 | Exposición AV1 | https://drive.google.com/drive/folders/1nH38g28IeEbZSu6ezcDFi0nh6URbGe9z?usp=sharing|
